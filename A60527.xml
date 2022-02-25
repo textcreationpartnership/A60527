@@ -1,0 +1,999 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to the advancement of musick by casting away the perplexity of different cliffs, and uniting all sorts of musick, lute, viol, violin, organ, harpsechord, voice, &amp;c. in one universal character / by Thomas Salmon ...</title>
+            <author>Salmon, Thomas, 1648-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60527</idno>
+            <idno type="STC">Wing S417</idno>
+            <idno type="STC">ESTC R4288</idno>
+            <idno type="EEBO-CITATION">12376015</idno>
+            <idno type="OCLC">ocm 12376015</idno>
+            <idno type="VID">60608</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60527)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60608)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 226:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to the advancement of musick by casting away the perplexity of different cliffs, and uniting all sorts of musick, lute, viol, violin, organ, harpsechord, voice, &amp;c. in one universal character / by Thomas Salmon ...</title>
+                  <author>Salmon, Thomas, 1648-1706.</author>
+                  <author>Birchensha, John, fl. 1664-1672.</author>
+               </titleStmt>
+               <extent>[18], 92, [1] p., [5] leaves of plates : music.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Macock and to be sold by John Car ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Added t.p., engraved.</note>
+                  <note>Preface signed: John Birchensha.</note>
+                  <note>Music on double plates.</note>
+                  <note>Errata: p. [18].</note>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Musical notation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:60608:1" rendition="simple:additions"/>
+            <pb facs="tcp:60608:2" rendition="simple:additions"/>
+            <pb facs="tcp:60608:2"/>
+            <pb facs="tcp:60608:3"/>
+            <p>
+               <figure>
+                  <figDesc>woman playing lute, with viol and another lute in foreground, part of formal garden and country house (?) in background, and hand reaching from clouds holding a book open to pages of musical symbols labeled Concordiā and Discordiā</figDesc>
+                  <head>An Eſsay To the Advancement of Muſick. by Thomas Salmon M.A.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:60608:3"/>
+            <p>AN ESSAY To the Advancement of MUSICK, BY Caſting away the Perplexity of <hi>DIFFERENT CLIFFS.</hi>
+            </p>
+            <p>And Uniting all ſorts of Muſick
+<list>
+                  <item>
+                     <hi>Lute,</hi>
+                  </item>
+                  <item>
+                     <hi>Viol,</hi>
+                  </item>
+                  <item>
+                     <hi>Violin,</hi>
+                  </item>
+                  <item>
+                     <hi>Organ,</hi>
+                  </item>
+                  <item>
+                     <hi>Harpſechord,</hi>
+                  </item>
+                  <item>
+                     <hi>Voice,</hi> &amp;c.</item>
+               </list>
+            </p>
+            <p>In one Univerſal Character.</p>
+            <p>
+               <hi>By</hi> THOMAS SALMON, <hi>Maſter of Arts of</hi> Trinity College <hi>in</hi> Oxford.</p>
+            <q>
+               <hi>Fruſtra fit per plura, quod fieri poteſt per pauciora.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Macock,</hi> and are to be Sold by <hi>John Car</hi> at the <hi>Middle-Temple-Gate.</hi> 1672.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:60608:4" rendition="simple:additions"/>
+            <pb facs="tcp:60608:4"/>
+            <head>THE PUBLISHER TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>THere is not any Art which at this day is more Rude, <g ref="char:V">Ʋ</g>npo<g ref="char:EOLhyphen"/>liſh'd, and Imperfect, in the Writings of moſt of the An<g ref="char:EOLhyphen"/>cient and Modern Authors, than Muſick; for the Elementary part thereof, is little better than an indigeſted Maſs, and confuſed Chaos of impertinent Characters, and inſignificant Signs.</hi>
+            </p>
+            <p>
+               <hi>It is intricate and difficult to be underſtood; it afflicts the memory,
+<pb facs="tcp:60608:5"/>and conſumeth much time, before the knowledge thereof can be at<g ref="char:EOLhyphen"/>tained: Becauſe</hi> the Cliffs are divers; their Tranſpoſition fre<g ref="char:EOLhyphen"/>quent; the Order and places of Notes very mutable; and their denominations alterable and un<g ref="char:EOLhyphen"/>fixed.</p>
+            <p>
+               <hi>Theſe things being conſidered by the Ingenious Author of this Book, (who endeavoureth only a refor<g ref="char:EOLhyphen"/>mation of the Regulative Princi<g ref="char:EOLhyphen"/>ples of Practical Muſick) he hath here preſented thee with an Expe<g ref="char:EOLhyphen"/>dient, for the redreſs of theſe Ob<g ref="char:EOLhyphen"/>ſtacles, which do hinder the Pra<g ref="char:EOLhyphen"/>ctitioners of this Art from ar<g ref="char:EOLhyphen"/>riving in convenient time, at the end of their Labours; which is,</hi> Perfection in the knowledge and Performance of Muſick.</p>
+            <p>
+               <hi>Perſpicuity and Brevity facili<g ref="char:EOLhyphen"/>tate: And here is a well-deſigned
+<pb facs="tcp:60608:5"/>Epitome of Practical Muſick. For by this happy contrivance,</hi> the Cliffs, which were many, are re<g ref="char:EOLhyphen"/>duced into an Univerſal Cha<g ref="char:EOLhyphen"/>racter; the various ſhifting of Notes in a Syſteme, or ſtaff of lines are fixed: the neceſſity of their Tranſpoſitions taken away; So that he that can Sing or Play any one Part, may Sing and Play all Parts; And he that ſhall know his diſtances in any one Part, may know them in all Parts.</p>
+            <p>
+               <hi>And ſo great will the Benefit of this Eſſay be, to thoſe who will make uſe of it, that I don't know what to requeſt more advantageous for its acceptance, than an Ex<g ref="char:EOLhyphen"/>periental tryal. Reader, I ſhall therefore think it needleſs to treat you with an Apology, where your advantage is like to be proportio<g ref="char:EOLhyphen"/>nable
+<pb facs="tcp:60608:6"/>to your pains. And truly you will find ſuch pleaſant variety, and profitable Novelty, that I am confident every Ingenious Muſi<g ref="char:EOLhyphen"/>cian will be ſatisfied with his entertainment, ſufficient both for his Phanſie and Judgment.</hi>
+            </p>
+            <p>
+               <hi>There can be no</hi> true Lover of Muſick, <hi>but will be favourable to the arguings, for its</hi> inſtitution and advantages: <hi>No</hi> Induſtrious Scholar, <hi>but will congratulate his</hi> knowledge, enlarged by an Uni<g ref="char:EOLhyphen"/>verſal Character. <hi>No</hi> Faithful Maſters, <hi>but will</hi> rejoyce <hi>at, ra<g ref="char:EOLhyphen"/>ther than</hi> envy the facility and advancement thereof. <hi>Nay fur<g ref="char:EOLhyphen"/>ther, will certainly</hi> applaud <hi>the Propoſal;</hi> where that which makes the advantage, makes it alſo eaſie, and requires but half the pains to double the Accom<g ref="char:EOLhyphen"/>pliſhment. <hi>Wherefore, I hope, that
+<pb facs="tcp:60608:6"/>they, who at preſent are the moſt glorious in their attained difficul<g ref="char:EOLhyphen"/>ties, and ſo firm to that Practice, which for want of a better, is at preſent received; will, when they have experience of this way, con<g ref="char:EOLhyphen"/>ſult their own</hi> Eaſe <hi>and</hi> Agree<g ref="char:EOLhyphen"/>ment <hi>with it.</hi>
+            </p>
+            <p>
+               <hi>This I was willing to premiſe, leſt the out-crys of ſome ſhould pre<g ref="char:EOLhyphen"/>poſſeſs the Reader with a Practical impoſſibility; notwithſtanding the Propoſal is moſt evident and plain. Which moved me to be very ear<g ref="char:EOLhyphen"/>neſt with this Gentleman, to give me this opportunity of being ſer<g ref="char:EOLhyphen"/>viceable to all true Lovers of Muſick, to whom there is none more devoted, than</hi>
+            </p>
+            <closer>
+               <signed>Their Humble Servant <hi>John Birchenſha.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:60608:7"/>
+            <head>The Contents of the Chapters, and Advantages which ariſe from this Eſſay.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <hi>M<g ref="char:V">Ʋ</g>ſick truly valued from its Au<g ref="char:EOLhyphen"/>thentick Creator; its Ancient Patronage, and that proper faculty, which was created for its recep<g ref="char:EOLhyphen"/>tion.</hi> (Page 1.2, 3.) <hi>The Advantages whereby it excells all other recreations in beſt accompliſhing its performers, and re-diſpoſing them for any employment,</hi> (Page 6.)</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>
+                  <hi>The Scale of Muſick reduced to ſeven Notes, encircling themſelves in ſeveral Octaves, expreſſed by the ſeven firſt Let<g ref="char:EOLhyphen"/>ters of the Alphabet.</hi> (P. 11.) <hi>Whence it follows,</hi> That the hard names of the Gamut, and its conjuring repetition backwards and forwards, become un<g ref="char:EOLhyphen"/>neceſſary;
+<pb facs="tcp:60608:7"/>and the perplexed compu<g ref="char:EOLhyphen"/>ting of Conſonant Notes are brought to one plain account.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>
+                  <hi>The ſame ſeven Notes and their O<g ref="char:EOLhyphen"/>ctaves are ever ſituated upon the ſame lines and ſpaces.</hi> (Page 23.) <hi>So that</hi> we have no troubleſome variety of ſigned keys, none of their perplexed Tranſpoſitions; but a conſtant and Univerſal Character, the ſame in all parts of Muſick upon all Inſtruments. Hence alſo it follows, he that knows his Notes in one part, knows them in all parts.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>
+                  <hi>The Deſign Applyed.</hi>
+               </p>
+               <p n="1">I. <hi>To Compoſition; that the conſonant and diſſonant intervals, being ever ſitu<g ref="char:EOLhyphen"/>ated upon the ſame places in all the ſe<g ref="char:EOLhyphen"/>veral Parts.</hi> (Page 32.) You may more clearly perceive which they be, and where they are to be written down.</p>
+               <pb facs="tcp:60608:8"/>
+               <p n="2">II. <hi>To Vocal Muſick, where a regular</hi> b' <hi>flat can be placed only upon the ſecond line and third ſpace; whence ariſes</hi> a moſt perſpicuous eaſineſs in the Sol-fa-ing of Notes; ſo that Mi hath the ſame ſituation in all parts. (Page 35.) <hi>Whence it follows,</hi> That one who can Sing a Treble part, can immediately Sing that which is writ<g ref="char:EOLhyphen"/>ten for the Baſe or any intermediate parts. <hi>Becauſe the ſituation of Notes is always the ſame, which require but four lines more eaſily to be apprehended by the eye.</hi> (Page 38.)</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>
+                  <hi>The Deſign applyed to Inſtrumental Muſick, and first;</hi>
+               </p>
+               <p n="1">I. <hi>To the Violin,</hi> (Page 42.) <hi>where</hi> G <hi>being ſet in the loweſt line.</hi> You will be exerciſed, in the common cha<g ref="char:EOLhyphen"/>racter, to play readily thoſe Leſſons, which were writ for any other Inſtru<g ref="char:EOLhyphen"/>ments, upon the Violin: And then the higheſt and moſt lively Notes will fall moſt conveniently within the com<g ref="char:EOLhyphen"/>paſs of the lines.</p>
+               <pb facs="tcp:60608:8"/>
+               <p n="2">II. <hi>To the Viol, where the different Cliffs being laid aſide, and the Notes rightfully inheriting the places of their Octaves.</hi> (Page 46.) There is not half the time and pains required to be per<g ref="char:EOLhyphen"/>fect in the book as formerly; and he that ſhall, or can already play only by the pricking of the Baſe; ſhall be able to play the higher parts; and what<g ref="char:EOLhyphen"/>ſoever was writ for any other Muſick, which ever conforms it ſelf to this its conſtant foundation.</p>
+               <p>
+                  <hi>An <g ref="char:V">Ʋ</g>niverſal Tuning propoſed for the Viol,</hi> (Page 51.) <hi>whereby it is made ca<g ref="char:EOLhyphen"/>pable,</hi> at once to expreſs the melody of a Lyra tuning, and the intelligence of Notes.</p>
+               <p n="3">III. <hi>To the Organ, Harpſechord, or Virginals; in which all things are car<g ref="char:EOLhyphen"/>ried by the exact reſemblance of Octaves, as the eye may moſt readily apprehend them, both upon the Book and Instru<g ref="char:EOLhyphen"/>ment,</hi> (Page 57.) <hi>whereby we avoid,</hi> 1. The perplexed care of different Cliffs for each hand at the ſame time. 2. The invincible difficulties of their arbitrary tranſpoſition. 3. That di<g ref="char:EOLhyphen"/>ſtracting multiplicity of ſix or more lines, which are here reduced to five.</p>
+               <pb facs="tcp:60608:9"/>
+               <p n="4">IV. <hi>To the Lute, for which there is a Scheme propoſed,</hi> (Page 66.) <hi>where<g ref="char:EOLhyphen"/>in all the ſtrings, both open and ſtopt, are expreſſed by Notes; which never change any place or Cliff upon the Book; and always belong to the ſame place up<g ref="char:EOLhyphen"/>on the Inſtrument. Whereby</hi> 'tis much eaſier for one who already under<g ref="char:EOLhyphen"/>ſtands any thing of Notes, by the practice of ſome other <hi>Muſick;</hi> and even altogether as eaſie for a new be<g ref="char:EOLhyphen"/>ginner to play upon the Lute by Notes, as by Letters. <hi>For the ſame time, in which they learn the names of the strings and their stops, would be ſufficient to inſtruct them, what Notes thoſe strings and ſtops are; which alſo appear more rational and plain upon the Book, than the preſent letters do,</hi> (Page 65.) <hi>ſince all the Octave Notes have the ſame names and the ſame places, which by Letters required different ſituations and vari<g ref="char:EOLhyphen"/>ouſly ſhap'd Characters.</hi>
+               </p>
+               <p>
+                  <hi>And for encouragement, he that plays on the Lute by Notes,</hi>
+               </p>
+               <p n="1">1. Truly underſtands his Leſſons, and ſees into the whole compoſure and contrivance of them.</p>
+               <pb facs="tcp:60608:9"/>
+               <p n="2">2. He may by the Scheme propo<g ref="char:EOLhyphen"/>ſed, write any Leſſons of the preſent Tableture, into Notes, for the Harp<g ref="char:EOLhyphen"/>ſecord or any other Muſick.</p>
+               <p n="3">3. He may take any Treble and Baſe, which were deſigned for any other Muſick, and play them upon the Lute. <hi>And,</hi>
+               </p>
+               <p n="4">4. Hath broke Priſon, and may by this uſe of Notes, come to arrive at perfection in compoſing for, as well as playing upon this ſupream Muſick.</p>
+               <p>
+                  <hi>None of which could in the least be done, though one practiſed an hundred years by letters.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>
+                  <hi>The Objections Anſwered,</hi> (Pag. 74.)</p>
+            </div>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>
+                  <hi>A Compendious review of a Learners task, being only the knowledge of the ſame ſeven Notes in ſeveral Octaves up<g ref="char:EOLhyphen"/>on the Inſtrument, by the ſeven firſt Letters of the</hi> Alphabet, <hi>ever applyed to the ſame ſeven places upon the Book.</hi> (Page 85.) So that for all the fore<g ref="char:EOLhyphen"/>mentioned
+<pb facs="tcp:60608:10"/>advantages, there is but half the pains required, which peo<g ref="char:EOLhyphen"/>ple take to be without them.</p>
+               <p>
+                  <hi>The Neceſſity of a</hi> Maſter, <hi>the Ad<g ref="char:EOLhyphen"/>vantage from the most</hi> Skilful, <hi>who is intreated to ſavour his Scholars re<g ref="char:EOLhyphen"/>queſts, and perfect their accompliſh<g ref="char:EOLhyphen"/>ments,</hi> by a generous diſcovery of the nature and compoſition of <hi>Muſick;</hi> (Page 88.) <hi>which might be eaſily brought to paſs</hi> by their conduct, and a good <hi>Muſical ingeny.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 4. line 12. for Nations, read <hi>Notions,</hi> p. 6. l. 9. for now, r. <hi>new,</hi> p. 7. l. 20. for repair, r. <hi>require,</hi> p. 11. l. 2. for verifies, r. <hi>terrifies,</hi> p. 11. l. 5. for fictions, r. <hi>fictitions,</hi> p. 14. l. 28. for iet, r. <hi>ſet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60608:10"/>
+            <head>AN ESSAY TO THE <hi>Advancement of Muſick.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Advantages of Muſick.</hi>
+               </head>
+               <p>AMongſt thoſe many Re<g ref="char:EOLhyphen"/>creations which ſweeten the life of man, and with a pleaſing variety refreſh his wearied mind; none can plead more advantages, or more truly juſtifie it's practice, than Muſick; which needs nothing elſe, nor can have any thing greater to command acceptance, then a challenge of it's in<g ref="char:EOLhyphen"/>ſtitution from Divine Providence it
+<pb n="2" facs="tcp:60608:11"/>ſelf: For upon this account God hath created a peculiar faculty of hearing, to receive harmonious ſounds, clearly different from that by which we per<g ref="char:EOLhyphen"/>ceive ordinary noiſes; inſomuch, that thoſe who have not this Muſical hear<g ref="char:EOLhyphen"/>ing, are by Nature as uncapable to underſtand Harmony, as a Horſe is to receive the civility of a Complement. And indeed as each particular ſenſe is ſubordinate to, but diſtinct from the common; ſo here is ſome ſpecifick power which ſub-divides this more pri<g ref="char:EOLhyphen"/>vate faculty from the common nature of hearing: Or elſe what can be the reaſon, why all men that have ears enough to entertain ſounds in general, ſhould not be able to diſcern the plea<g ref="char:EOLhyphen"/>ſure of Muſick (which is a combinati<g ref="char:EOLhyphen"/>on of ſounds as they are proportioned in numbers) but becauſe they want that faculty which is fitted with a pe<g ref="char:EOLhyphen"/>culiar power for their reception.</p>
+               <p>He that hath any one ſenſe good, is capable of all objects that fall under ſuch a ſenſe; one that can ſee a horſe, may ſee a houſe, but he that can tell a clock, cannot always tell the move<g ref="char:EOLhyphen"/>ments of a leſſon, and the Harmony of its conſenting parts, which is the object
+<pb n="3" facs="tcp:60608:11"/>of a more ſpecial power. Neither can this be thought to proceed only from a more nice acuteneſs of the ear, ſince that ſeveral perſons, who betray much deafneſs in their common diſcourſe and converſe, are able exactly to Tune their Muſical Inſtruments, and diſcover the jarring of any diſſonant note, though but ſoftly pronounced: Where<g ref="char:EOLhyphen"/>by it appears that this peculiar faculty doth not meerly ariſe from an excel<g ref="char:EOLhyphen"/>lency of the common hearing, and conſequently that they are not the ſame. But whether the diſtinction comes from a different formation of the little intrigues of the ear, or only from an improvement that ſome mens ſouls are able to make of ſounds ſo qualifyed and repreſented to them; it is hard to determine, and needleſs for my purpoſe, ſo long as we find <hi>de facto,</hi> that there is ſuch a Muſical hear<g ref="char:EOLhyphen"/>ing, and that God hath given ſome men ſuch a particular faculty, where<g ref="char:EOLhyphen"/>ſoever it pleaſed him to place it.</p>
+               <p>Now leſt this faculty ſhould ſeem to be any time created in vain, Holy Writ but ſuccinctly deſcribing the in<g ref="char:EOLhyphen"/>fancy of the world, yet vouchſafes to mention Jubal, the Muſical Father of
+<pb n="4" facs="tcp:60608:12"/>thoſe who handle the Harp and Or<g ref="char:EOLhyphen"/>gan.</p>
+               <p>So that whoſoever ſhall conſider the Authentick creator of Muſick, it's an<g ref="char:EOLhyphen"/>tient Patronage, and moreover, the pra<g ref="char:EOLhyphen"/>ctice of all civilized Nations, yet ſhall condemn it as ſilly and trifling, as un<g ref="char:EOLhyphen"/>worthy of generous and heroick minds; not only ſlight thoſe reaſons which obtain in far greater matters, but alſo betray themſelves to be ignorant of thoſe exalted Nations, and noble Sen<g ref="char:EOLhyphen"/>timents, which make it honoured both in Peace and War: And indeed to have ſo little ingenuity, that they can never apprehend its excellency, where<g ref="char:EOLhyphen"/>fore they neglect what is above them, and take up with ſome ruſtick paſtime which is common to Clowns and Fools.</p>
+               <p>Now to enumerate the Advantages Muſick hath above other divertiſe<g ref="char:EOLhyphen"/>ments, it is neceſſary to alledge its in<g ref="char:EOLhyphen"/>comparable pleaſure, which makes it the greateſt recreation; but becauſe that is only known by hearing, and its ſelf beſt expreſſes its own ſweet elo<g ref="char:EOLhyphen"/>quence, I muſt remit you to its practi<g ref="char:EOLhyphen"/>cal and delicious entertainments, where you ſhall ſeldom meet with people ſo
+<pb n="5" facs="tcp:60608:12"/>rude, but they will be attentive, in pretence, to that accompliſhing Ge<g ref="char:EOLhyphen"/>nius, which they are aſhamed it ſhould be known nature hath denied them. Though you ſhall have ſome men ſo importunate to ſhew themſelves wits, and tell ſtories of the great Turks im<g ref="char:EOLhyphen"/>patience, that they will break out in the midſt of a ſuit of leſſons, and then call for Bobbing Jone, or the Nightingale; as if their brisk fancies were not to be damped with the gra<g ref="char:EOLhyphen"/>vity of an Almain, and they knew better from their Countrey Scrapers, then what theſe troubleſom Contrivers of Conſort perplex them with.</p>
+               <p>It may ſeem impertinent to prove a recreation profitable, or to reſpect in<g ref="char:EOLhyphen"/>tereſt in the choice of pleaſure; but that gain is ſuch a taking thing in the world, as if we can make out Muſick in this kind advantageous to the pra<g ref="char:EOLhyphen"/>cticer, it will be treated with a double welcom. To this purpoſe let us but a little conſider other Sports, as Cards, Tables, Cheſs, <hi>&amp;c.</hi> and you will find that its expences may be eſteemed good husbandry, though for its excel<g ref="char:EOLhyphen"/>lency it deſerves to be purchaſed by the greateſt charge, ſince by its refreſh<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:60608:13" rendition="simple:additions"/>ſweetneſs it lulls the ſoul into its own pacate poſture, and gives eaſe and quiet; when other games in their di<g ref="char:EOLhyphen"/>verſion only rack and torment it. But let us purſue the compariſon.</p>
+               <p n="1">1. Thoſe are meer paſtimes, which when we have ſpent many hours in frequenting, do not rediſpoſe us to undertake now buſineſs, but leave the head hot, the faculties tired, and the man quite diſabled to ſtudy or work; whereas his recreation ought to fit him for it; but after the hearing ſome brisk Airs, or melodious Conſort, the mind is raiſed, the fancy enlivened, care and ſorrow ſuppreſſed, and an inclination produced ready to diſpatch any employment. Such a noble power hath Muſick over the ſoul; which though it is not (as <hi>Plato</hi> thought) on<g ref="char:EOLhyphen"/>ly Harmony; yet Harmony may claim very great acquaintance with it, ſince 'twas uſed as a ſacred means to allay <hi>Sauls</hi> anger; and doth ſtill ſet the Soul in order, charming the mad<g ref="char:EOLhyphen"/>neſs even of one bitten by a Taran<g ref="char:EOLhyphen"/>tula.</p>
+               <p>But to the pleaſure and preparation for buſineſs, there is another profit ſuperadded, that when one hath ſpent
+<pb n="7" facs="tcp:60608:13" rendition="simple:additions"/>ſome hours in this Recreation, he hath attain'd an Art, which where-ever the perſon comes, ſhall bring him in eſteem, and create a delight to the ſociety he is in; whilſt what glory is it to ſhuffle and cut the Cards well? or dexterouſly to jog the elbow, un<g ref="char:EOLhyphen"/>leſs in a diſcreditable phraſe? and I don't doubt but this argument will be valued amongſt thoſe that are ingeni<g ref="char:EOLhyphen"/>ouſly covetous of accompliſhments.</p>
+               <p n="2">2. The charges of this recreation are much leſs then of others; for no Gameſter will play, unleſs his wager be conſiderable enough to oblige his attention; if then we ſuppoſe a Gen<g ref="char:EOLhyphen"/>tleman to keep within moderate bounds (ſo he plays like himſelf) he may eaſily loſe more in one night, then his Muſick will re<add>quire</add> for a month; but how often doth a bewitching paſſion prevail to double the ſtakes, and then venture at all, till at laſt a croſs caſt ruines his eſtate, and miſerably de<g ref="char:EOLhyphen"/>ſtroys a Noble Family; many ſad ex<g ref="char:EOLhyphen"/>amples can prove Gaming guilty of this: but though Muſick was never famous for enriching men, it was never known to have begger'd any.</p>
+               <pb n="8" facs="tcp:60608:14"/>
+               <p>I am perſwaded that were the minds of our Engliſh youth, more poſſeſſed with this delightful and innocent re<g ref="char:EOLhyphen"/>creation, which is hardly capable of exceſs, they would afterwards value it above their vainer Sports, and by their eſteem and pleaſure in it, be fore-ſtalled againſt any extravagant debauchery. It may therefore upon this account ſeem a more ingenious piece of policy, for ſome progging Guardians to educate their Pupils in this advantageous divertiſement, ra<g ref="char:EOLhyphen"/>ther then to inſtill their ſneaking prin<g ref="char:EOLhyphen"/>ciples of covetouſneſs, which if they take effect, render them baſe on one hand, but ofteneſt on the other break out into a contradictive prodigality; as we daily ſee the moſt ſubtle ſcraping fellows are uſually followed by the wildeſt heirs.</p>
+               <p>In Country Recreations (which Citizens enjoy not, neither are like Muſick, always in ſeaſon, but depend much upon the time of the year, and the weather) there is not much to be valued, except the wholſome exerciſe, and the freſh air, which are things al<g ref="char:EOLhyphen"/>together extrinſical, in reſpect of the Sport, whoſe quarry is always unwor<g ref="char:EOLhyphen"/>thy
+<pb n="9" facs="tcp:60608:14"/>ſo great pains, and the charges of maintenance without proportion. Ma<g ref="char:EOLhyphen"/>ny a Gentleman hath had his eſtate devoured by his ravenous Hawks, and undergone the fate of <hi>Acteon,</hi> who ſtill remains an emblem of thoſe Hunters, that have been eaten up by their own dogs.</p>
+               <p>I know nothing that can be alledg<g ref="char:EOLhyphen"/>ed againſt Muſick, but that it is too ſedentary and unactive; which (if it ſhould be ſo) is no more then the fore<g ref="char:EOLhyphen"/>mentioned unprofitable Games, may be juſtly accuſed of; yet being further conſidered, it may vie wholſomneſs with the beſt; for there is nothing ſo efficaciouſly opens the breaſt, as Sing<g ref="char:EOLhyphen"/>ing, which exerciſes the Lungs, and conſequently puts the blood into a brisker motion, whilſt ſome warbling thrill, ſtrains thoſe parts, and aſſiſts in the ſeparation of the ſluggiſh flegm: They that practice on the Viol, are able to overcome the cold of a Win<g ref="char:EOLhyphen"/>ters morning, and excite a ruddy warmth, which, by Phyſicians, is ſet as the boundary of an wholſom ex<g ref="char:EOLhyphen"/>erciſe.</p>
+               <p>After all theſe Advantages of Mu<g ref="char:EOLhyphen"/>ſick, which is ſo noble and gentile, that
+<pb n="10" facs="tcp:60608:15"/>it may not unbecome the higheſt ho<g ref="char:EOLhyphen"/>nour or moſt ſerious gravity. I could not but admire the Learning was ſo little frequented, and the exerciſe leſs, but obſerving how many in vain at<g ref="char:EOLhyphen"/>tempted its dark and tedious princi<g ref="char:EOLhyphen"/>ples; how many more were utterly diſcouraged by the ill ſucceſs of o<g ref="char:EOLhyphen"/>thers; I found it was the difficulty lay in the way, and hindred acceſs to this, as it does to all other brave accom<g ref="char:EOLhyphen"/>pliſhments. Wherefore the deſign of theſe Papers is to take away the af<g ref="char:EOLhyphen"/>frighting bug-bear terms, to reduce the confuſed cliffs into one eſtabliſhed or<g ref="char:EOLhyphen"/>der; and if there be any faith had to reaſon and experience, to ſhow a way for the attainment of Muſick by Notes, in much leſs then the uſual time re<g ref="char:EOLhyphen"/>quired.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="11" facs="tcp:60608:15" rendition="simple:additions"/>
+               <head>CHAP. II. <hi>The Gamut Reformed.</hi>
+               </head>
+               <p>THat which firſt of all terifies a beginner, is a long diſcourſe of Gibberiſh, a Fardle of hard names and fictious words called the Gamut, pre<g ref="char:EOLhyphen"/>ſented to him perfectly to be learned without book, till he can readily re<g ref="char:EOLhyphen"/>peat it backwards and forwards; as though a man muſt be exact in the Art of Conjuring before he might enter upon Muſick. But I am certain if he can ſay <hi>G, A, B, C, D, E, F, G,</hi> it will do to all intents and purpoſes as well. For the plain truth is, there are but ſeven Notes in all, only repeated over and over again in a double and treble proportion.</p>
+               <p>That an Octave is meerly a Note doubled, any Muſitian will tell you, and a man may eaſily ſatisfie himſelf, if he will but ſtop with his finger in the middle of a ſtring; for he ſhall then find, that either of thoſe two parts will be an Octave to the ſtring open. This alſo <hi>Kircher</hi> in his <hi>Muſurgia,</hi> proves by an ingenious experiment;
+<pb n="12" facs="tcp:60608:16"/>take two drinking glaſſes (ſaith he) and fill one half way with water, and the other with the like quantity of ſome groſſer liquor, juſt of a double thickneſs, then draw your finger pretty ſtiff about the brim of the glaſſes ſeveral times, till the parts are put in motion, and you will hear a Muſical murmuring of Octaves from theſe new kind of glaſs inſtruments.</p>
+               <p>An Octave therefore being the ſame in all reſpects with its original Note, like ſome beloved Son, who is the pretty Picture of his Parent, and will ſerve at any time in his Fathers ab<g ref="char:EOLhyphen"/>ſence; it will be the ſame thing, if af<g ref="char:EOLhyphen"/>ter I have paſſed one Octave, I begin a new to reckon the reſt, and ſo round, as if I aſcended in the preſent variety from eight to fifteen, and ſo to two and twenty. Hence I make my Scale or Muſical Ladder but ſeven rounds high, which, while I make three or four ſeveral marks for as many diffe<g ref="char:EOLhyphen"/>rent Octaves one higher then another, ſhall be able to reach the talleſt Note in Muſick; for it will be all one, and much more perſpicuous to ſay a fifth in the ſecond Octave, than a twelfth that is D la ſol re, is an Octave and a
+<pb n="13" facs="tcp:60608:16"/>fifth from <hi>Gamut,</hi> than (which is the ſame) twelve Notes diſtant.</p>
+               <p>And now you may diſcern the con<g ref="char:EOLhyphen"/>veniency of this way of accounting for a young Compoſer, will much ſooner ken the Intervals of ſeven Notes only, then if they were continued up to thirty; eſpecially if you conſider how the Muſicians reckon incluſively, as if eight and eight were fifteen, and eight more two and twenty, which makes the intermediate Concords lie after this rate much at randome. I confeſs if Muſick divided it ſelf by tens, as ſuppoſe eight ſhould have for its equi<g ref="char:EOLhyphen"/>valent concords eighteen, and eight and twenty; this would be a good clear way to reckon our Notes, but ſince in reſpect of <hi>Gamut,</hi> or the Note from whence we reckon, a third, a tenth, a ſeventeenth are the three B's, or Notes of the ſame compoſing value, we make a very confuſed computati<g ref="char:EOLhyphen"/>on, which would be avoided by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound about of an Octave.</p>
+               <p>I will give you one true and moſt evident compariſon; the Muſicians at preſent reckon their Notes at length, as the <hi>Jews</hi> of old did their months by a continued number of days; but as
+<pb n="14" facs="tcp:60608:17"/>our cuſtom is eaſier, which computes them by weeks, and comes about a<g ref="char:EOLhyphen"/>gain with the ſame days, and the ſame number of days, ſo with great facility ſhall I caſt up my Muſical account within the circulation of an Octave; for it will be all one if I ſay, I will do a thing one and twenty days hence, or this day three weeks; and beſides, I eſcape the difficulty fore-mentioned, that lies in the croſs ſituation of equi<g ref="char:EOLhyphen"/>valent Notes.</p>
+               <p>That thoſe foreſaid hard names are nothing to the purpoſe; I thus prove it; for they ſhould either diſtinguiſh what Octave the Note is in, or ſignifie the placing of Mi.</p>
+               <p n="1">1. They can't declare a Note to be in a different Octave, becauſe their names are not different in every O<g ref="char:EOLhyphen"/>ctave; as that F fa ut is always the ſame, and G ſol re ut, <hi>Alamire</hi> and moſt of the reſt differ not in the upper Octaves: Wherefore really to diſtin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>guiſh them, I will at the beginning of every leſſon in the place of three (in themſelves inſignificant) cliff cha<g ref="char:EOLhyphen"/>racters, iet thoſe letters which expreſs the part wherein the Muſick is plac'd; as B for the baſe, ſo called (and ought
+<pb n="15" facs="tcp:60608:17"/>to be writ) becauſe it is the Βάσις or foundation of Muſick. M for the mean or middle part; Tr. for the tre<g ref="char:EOLhyphen"/>ble, and if it be requiſite to uſe the Notes in Alt, you may for an higher Octave put double Ttr.</p>
+               <p n="2">2. If the fictitious words of the <hi>Ga<g ref="char:EOLhyphen"/>mut</hi> were originally deſigned to ſhew the place of Mi, yet muſt they now be uſeleſs for this end alſo, becauſe Re and Ut, which chiefly compoſe theſe ſeigned names, are by Engliſh Muſici<g ref="char:EOLhyphen"/>ans already laid aſide; ſo that I can't tell any thing that perſwades <hi>Muſick-Maſters</hi> to trouble their Scholars with an <hi>impertinent difficulty,</hi> but <hi>a pernici<g ref="char:EOLhyphen"/>ous humour in ſome men</hi> ſtill to do what hath once been done, howſoever uſe<g ref="char:EOLhyphen"/>leſs and unprofitable; or elſe an opini<g ref="char:EOLhyphen"/>on that Muſick will appear in the greater grandeur by bearing ſuch my<g ref="char:EOLhyphen"/>ſterious terms in the front.</p>
+               <p>But how ever the <hi>Gamut</hi> hath been <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>till continued, the Muſicians them<g ref="char:EOLhyphen"/>ſelves have thought it inſufficient for the purpoſe alledged. Wherefore that we may know how to place Mi, they give us this rule which always holds good, <hi>viz.</hi> before Mi aſcending to name fa, ſol, la, mi, and after mi de<g ref="char:EOLhyphen"/>ſcending,
+<pb n="16" facs="tcp:60608:18"/>ſcending, mi, la, ſol, fa. Now that which they are to be blamed for in this is, that when they have given their Scholars a Notional underſtanding of this direction, their practice is to take their riſe from ſol, and ſing ſol, la, mi, fa, ſol, la, fa, ſol; as though ſol was the ſyllable from whence they ſhould take aim, by which means they never perfect their main rule; and ſo as Mi alters, are confounded in naming their Notes; whereas, if in their practice they begin with mi, and ſo ſing for<g ref="char:EOLhyphen"/>wards, mi, fa, ſol, la, fa, ſol, la, mi, they would at once learn to riſe an Octave with their voice, and gain a readineſs in this rule, which they are always to account by in whatever con<g ref="char:EOLhyphen"/>dition they find Mi.</p>
+               <p>It is to no purpoſe to plead that ſol is for the moſt part in <hi>the cliff line,</hi> and therefore ready to begin with as they go upward; becauſe theſe ſyllables are practiced only in order to other Singing; now Songs begin not with ſol, and go forward in that method, but upon any note, and ſo skip about, that no rule can be obſerved, but that which we contend for always to be practiſed.</p>
+               <pb n="17" facs="tcp:60608:18" rendition="simple:additions"/>
+               <p>
+                  <hi>I ſhall now preſent you with the Old and New Gamut.</hi>
+               </p>
+               <list>
+                  <head>The Old Gamut.</head>
+                  <item>E <hi>la</hi>
+                  </item>
+                  <item>D <hi>la ſol</hi>
+                  </item>
+                  <item>C <hi>ſol fa</hi>
+                  </item>
+                  <item>B <hi>fa b mi</hi>
+                  </item>
+                  <item>A <hi>la mi re</hi>
+                  </item>
+                  <item>G <hi>ſol re ut</hi>
+                  </item>
+                  <item>F <hi>fa ut</hi>
+                  </item>
+                  <item>E <hi>la mi</hi>
+                  </item>
+                  <item>D <hi>la ſol re</hi>
+                  </item>
+                  <item>C <hi>ſol fa ut</hi>
+                  </item>
+                  <item>B <hi>fa b mi</hi>
+                  </item>
+                  <item>A <hi>la mi re</hi>
+                  </item>
+                  <item>G <hi>ſol re ut</hi>
+                  </item>
+                  <item>F <hi>fa ut</hi>
+                  </item>
+                  <item>E <hi>la mi</hi>
+                  </item>
+                  <item>D <hi>ſol re</hi>
+                  </item>
+                  <item>C <hi>fa ut</hi>
+                  </item>
+                  <item>B <hi>mi</hi>
+                  </item>
+                  <item>A <hi>re</hi>
+                  </item>
+                  <item>r <hi>ut</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The New Gamut.</hi>
+               </p>
+               <p>G.A.B.C.D.E.F.G.</p>
+               <pb n="18" facs="tcp:60608:19"/>
+               <p>We are ſure, what we have under<g ref="char:EOLhyphen"/>took, is ſufficiently proved, that <hi>G, A, B, C, D; E, F, G,</hi> will do as well as the old hard names; and for the placing of Mi, you muſt take the uſu<g ref="char:EOLhyphen"/>al Monoſyllables, ſo you order them in the moſt practicable method, <hi>viz.</hi> Mi fa ſol la fa ſol la mi.</p>
+               <p>I come now to my chief Deſign, which is, the Reduction of Cliffs into one eſtabliſhed Order: whoſe clear and facile Method, will ſo bribe the Practitioner; and whoſe <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Character</hi> will aſſord him ſuch Catho<g ref="char:EOLhyphen"/>lick converſe in Muſick, that I don't doubt, but being ſtrengthened by ſo great Conveniencies, it will be able to graple with any imputation of Fancy and Novelty.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="19" facs="tcp:60608:19"/>
+               <head>CHAP. III. <hi>The Cliffs reduced to one <g ref="char:V">Ʋ</g>niverſal Character.</hi>
+               </head>
+               <p>THAT intolerable perplexity which aroſe from the Alterati<g ref="char:EOLhyphen"/>on of Cliffs, cauſed ſome charitable, but lazy Wit, to invent Tableture; whereby the Notes are Mechanically clouded in Letters, and ſo darkly, that the moſt quick-ſighted Muſick-maſter himſelf, can't tell what they mean, till he finds out the Tuning of the Inſtru<g ref="char:EOLhyphen"/>ment, and then produces the Sound; which if expreſſed in Notes, might be underſtood at firſt view: whilſt that the Scholar who is this way in<g ref="char:EOLhyphen"/>ſtructed, is condemned ever to be ig<g ref="char:EOLhyphen"/>norant of the rational part of his Mu<g ref="char:EOLhyphen"/>ſick; and never to Play any thing, but what he hath practiſed before; or elſe is well acquainted with the hu<g ref="char:EOLhyphen"/>mour of it.</p>
+               <p>For the Voice, and thoſe Inſtru<g ref="char:EOLhyphen"/>ments that are not able to be expreſſed by Letters, people learn by rote, and quickly forget again, what like Par<g ref="char:EOLhyphen"/>rots they ignorantly prated. I would
+<pb n="20" facs="tcp:60608:20"/>therefore by one ſteady ſettlement, bring Notes to be as eaſie as Letters; and ſo introduce our fore-mentioned Practitioners into a more underſtand<g ref="char:EOLhyphen"/>ing way; as alſo to ſave that Infinite Expence of Time and Trouble, which ſome Lovers of Muſick were content to undergo.</p>
+               <p>The preſent Practice is to make three Cliffs, whoſe Notes, by which they are called, are a fifth above one another; and according to the moſt conveniency in writing, are uſually aſſigned to their places in the Scheme.</p>
+               <figure>
+                  <figDesc>five-line staff with the note names shown on each line and space for each of the three traditional clefs, from bottom line to top line</figDesc>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <p>𝄢 g a b c d e f g a 𝄡 f g a b c d e f g 𝄞 e f g a b c d e f</p>
+               </figure>
+               <p>Where you firſt learn to know the Notes in ſuch a different ſituation, that ſometimes the lowermoſt line is g. ſometimes f. ſometimes e. and conſe<g ref="char:EOLhyphen"/>quently all other lines and ſpaces ſuffer the like perplexed variety. Where, who can conceive how great the difficulty muſt be, if from only obſerving the Cliff Notes at the be<g ref="char:EOLhyphen"/>ginning of the line, we muſt ſuddenly,
+<pb n="21" facs="tcp:60608:20"/>but exactly, know the Intervals of all the Notes; however they skip and jump to the end of the Leſſon: or elſe have the lines and ſpaces ſo clearly ſixed in our heads, that, without any Computation, we may apprehend them as barely ſituated in the three-fold dif<g ref="char:EOLhyphen"/>ference.</p>
+               <p>And after all this is attained (which one would think inſuperable; but that many years practice, and the vaſt pleaſure of Muſick, hath been able to overcome any thing) you muſt, from the ſuppoſition of placing any one Note in any place, by a quick way of reaſon, argue the ſituation of all the reſt, diſordered by the Tranſpoſition of the ſigned Keys.</p>
+               <p>Which difficulty and confuſion ap<g ref="char:EOLhyphen"/>pears, by the following Scheme.</p>
+               <figure>
+                  <figDesc>depiction of various placements of the three clefs with flats: G on the 2nd line with B-flat, 1st line with B- and E-flats; C on the 4th and 2nd lines with B- and E-flats, 3rd and 1st lines with B-flat; F on the 4th line with E-flat, 3rd line with B-flat, E-flat, and A-flat</figDesc>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <p>Treble Meane Baſe</p>
+               </figure>
+               <pb n="22" facs="tcp:60608:21"/>
+               <p>For Muſick-maſters, that their Leſ<g ref="char:EOLhyphen"/>ſon may fall beſt within the compaſs of five lines, place the Cliffs in any line; by which means there are, in truth, as many Cliffs as lines; and as many alterations, as both lines and ſpaces can make.</p>
+               <p>Perhaps ſome will ſay, they only obſerve the Intervalls of following Notes, and ſo care not upon what lines and ſpaces they are ſituated; which, indeed, is the beſt way as things are; but this won't do. For no Scholar is capable to make uſe of it under a years practice, nor can a Muſick-maſter him<g ref="char:EOLhyphen"/>ſelf truſt to it, in the paſſage from one Cliff to another. As when a Violiſt paſſes from F fa ut, to C ſol fa ut Cliff; the Notes muſt not be plaid according to their Intervall; but there muſt be a new aim taken from the Cliff Character, as is already related. Though this is ſo far from thwarting my Propoſal, that if you follow it, the laſt Objection is taken away, and the Intervalls will be always true; on<g ref="char:EOLhyphen"/>ly in another Octave.</p>
+               <p>And now, I only fear, my Reader ſhould think me obſcure; whereas the buſineſs, as it is now practiſed, is ſo
+<pb n="23" facs="tcp:60608:21"/>difficult, that I could hardly conceive it my ſelf; and therefore, I doubt, have not clearly explained the Confuſion of the former way of pricking.</p>
+               <p>I could not think it feaſable to re<g ref="char:EOLhyphen"/>duce theſe entangled perplexities into one Order, or that ſuch Pilgrim Notes could be ſixed in any conſtant dwel<g ref="char:EOLhyphen"/>lings, but that the following Contri<g ref="char:EOLhyphen"/>vance ſhews me it may, and is here already accompliſhed.</p>
+               <figure>
+                  <figDesc>depiction of the range of notes in each octave, with G on the bottom line of every staff, in four parts: two trebles, mean, and bass; 5th (top) line of each staff labeled as a leger line</figDesc>
+                  <head>The New Scheme for the conſtant ſituation of the ſame Notes, and their Octaves, on the ſame Lines and Spaces.</head>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <p>
+                     <hi>This upper line lies Lieger for the buſineſs of an higher Octaue.</hi>
+                  </p>
+                  <p>g a b c d e f</p>
+                  <p>Treble</p>
+                  <p>
+                     <hi>The Lieger line</hi>
+                  </p>
+                  <p>g a b c d e f</p>
+                  <p>Treble</p>
+                  <p>
+                     <hi>The Lieger line</hi>
+                  </p>
+                  <p>g a b c d e f</p>
+                  <p>Meane</p>
+                  <p>
+                     <hi>The Lieger line</hi>
+                  </p>
+                  <p>g a b c d e f</p>
+                  <p>Baſe</p>
+               </figure>
+               <pb n="24" facs="tcp:60608:22"/>
+               <p>As it is eaſier to find a Man, who always keeps his home, than if he ſpent his time in continual Rambling; ſo I ſuppoſe, none can deny, but the Notes may be more readily known, when they are perpetually rivited into the ſame places, then if they were ſhuff<g ref="char:EOLhyphen"/>led up and down in their former Alte<g ref="char:EOLhyphen"/>terations.</p>
+               <p>I would not therefore be tedious, in further purſuing ſo plain a Demon<g ref="char:EOLhyphen"/>ſtration, but that Muſick-maſters, who have by the practice of their whole Lives, attained this laborious Art; (this now troubleſom and inſignificant Excellency) will be loath to conſent to a Way, wherein every young Pra<g ref="char:EOLhyphen"/>ctitioner may Rival them; who by exerciſing himſelf only in that one Method propoſed, ſhall be as nimble at his Book, to play by ſight in a year, as they are in an Age.</p>
+               <p>For do but ſuppoſe all the labour that was ſpent in practiſing three Cliffs, had been beſtowed upon one; and that diſtracted variety (which in per<g ref="char:EOLhyphen"/>fecting one did, as it were, imperfect another) was contracted in our United Order, how great would the Perfe<g ref="char:EOLhyphen"/>ction be. And let me tell you, though
+<pb n="25" facs="tcp:60608:22"/>the other way may ſerve for thoſe, who, all their life time, and every day, make a trade of Muſick; yet, Gen<g ref="char:EOLhyphen"/>tlemen, who take it for a Recreation, and therefore muſt diſcontinue their practice as buſineſs requires, are never able to maintain ſuch a knowledge, as conſiſts in confuſion; and conſe<g ref="char:EOLhyphen"/>quently, will be daily impaired, if at all omitted. And I can here plead the ſad experience of this, which makes me ſo zealous in the Remedy. For after I had with much trouble over<g ref="char:EOLhyphen"/>come the Diverſity of Cliffs, two or three months abſence from my Muſick, caſt me into ſuch a Relapſe, that I could ſcarcely, in ſo much time, recover them again.</p>
+               <p>Wherefore, having made this Pro<g ref="char:EOLhyphen"/>poſal to ſome Muſick-maſters; they re<g ref="char:EOLhyphen"/>turned me ſuch Objections, as partly betrayed their miſ-apprehenſions of my deſign; but chiefly their unwilling<g ref="char:EOLhyphen"/>neſs it ſhould come into practice. Upon which account, I put my ſelf upon the trouble of writing theſe Pa<g ref="char:EOLhyphen"/>pers; that they might the more clear<g ref="char:EOLhyphen"/>ly perceive the conveniency of this <hi>Hypotheſis.</hi> And if afterwards they ſhould remain peeviſh, and obſtinate
+<pb n="26" facs="tcp:60608:23"/>againſt the uſe of it; their Scholars might be able to Right themſelves, and demand a Remiſſion of more then half their ſlaviſh task. For, to learn the Notes, and Con their Places, is the very Drudgery of Muſick. And who is it that would be willing thus to undergo a tedious half year, be<g ref="char:EOLhyphen"/>fore he comes to enjoy, the delicious ſweets of Conſort, if he knows how to remedy ſo great a labour? And whereas they told me it might do, but would be never practiſed; let them not take care for that; when once men find it will ſave them more then half the Trouble, they will embrace it as readily, as if I was Emperour of the world to command it. For Con<g ref="char:EOLhyphen"/>veniency is an Univerſal King.</p>
+               <p>It is the Intereſt of Muſicians to have their Art underſtood; for there is no<g ref="char:EOLhyphen"/>thing ſo much its hinderance, as igno<g ref="char:EOLhyphen"/>rance of its Excellency; neither let them think, that the ſooner Learned, the ſooner left off; for whereas many faint in their firſt Eſſays, and others contend to conquer it, ſo long only as their patience will laſt; if the way was more plain, theſe might arrive at ſome Perfection, and practiſe it ever
+<pb n="27" facs="tcp:60608:23"/>after, as the chief Recreation of their Lives.</p>
+               <p>But if after all this, Muſick-maſters ſhall double the time in teaching their Scholars, in hopes of double Gain; or their Scholars be ſuch Fools to under<g ref="char:EOLhyphen"/>go that Expence of Time and Trou<g ref="char:EOLhyphen"/>ble; give me leave to laugh, and let them have their labour for their pains.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="28" facs="tcp:60608:24"/>
+               <head>CHAP. IV. <hi>The Deſign Applyed; and firſt to Vocal Muſick.</hi>
+               </head>
+               <p>THAT this way may not ſeem an Airy Notion, or Speculative fancy at large, which is not capable of convenient practice: I ſhall now ap<g ref="char:EOLhyphen"/>ply it to particular Muſick, and ſhew that it will not only ſerve for all In<g ref="char:EOLhyphen"/>ſtruments and Voices; but that ſome other conſiderable Advantages will accrue in every one of them. One thing of no ſmall account, is, that whatſoever Muſick is writ this way, is equally proper; and as I may ſay, peculiar to all manner of perfor<g ref="char:EOLhyphen"/>mances.</p>
+               <p>Suppoſe an Air thus prick'd; you may indifferently play it with French Lute, Theorb, Viol, or Violin, <hi>&amp;c.</hi> or Sing it with either Baſe, or Treble Voice. The Players, indeed, will find it but in one, yet every ones Na<g ref="char:EOLhyphen"/>tive Language (though I muſt acknow<g ref="char:EOLhyphen"/>ledge that the Dialects of Inſtruments are different) and the various Practi<g ref="char:EOLhyphen"/>tioners will admire their Inſtruments,
+<pb n="29" facs="tcp:60608:24"/>Harmonious in their Pricking too. Like that late ingeniouſly invented Univerſal Character, which, expreſſing things, and not words, is common to all Countries; and may be read by thoſe who agree not in ſpeaking, neither at all underſtand one anothers Diſ<g ref="char:EOLhyphen"/>courſe.</p>
+               <p>I confeſs this might poſſibly be done by thoſe, who have perfectly over<g ref="char:EOLhyphen"/>come the Difficulties related in the be<g ref="char:EOLhyphen"/>ginning of the laſt Chapter; but they are only the abſolute Maſters of Mu<g ref="char:EOLhyphen"/>ſick; that when I ſay any Scholar who learns only upon one Inſtrument, ſhall be able to do it, as well as if he had learned of all. I may aſſert, that to be done by this, which could not be done before; and that to be brought into common uſe, which was ſcarcely in Speculation, except amongſt Mu<g ref="char:EOLhyphen"/>ſick-maſters themſelves. How could one that learned only upon the Violin, and conſequently was exerciſed only in G ſol re ut Cliff, play an Air writ for the Viol in F fa ut, and C ſol fa ut? or a Voice that was uſed only to the Baſe, Sing a Tune in the Treble Cliff? <hi>It neither was nor could be.</hi> Wherefore it is much more advanta<g ref="char:EOLhyphen"/>gious
+<pb n="30" facs="tcp:60608:25"/>for a Scholar, who, when he be<g ref="char:EOLhyphen"/>gins, is indifferent to all, to learn this way; by which, Muſick is brought to ſuch a general Conſent, that from his own Inſtrument he underſtands all o<g ref="char:EOLhyphen"/>thers, and gains a Catholick know<g ref="char:EOLhyphen"/>ledge in the Art.</p>
+               <p>Neither is this Propoſal fit only for the infancy of Muſick, or a device ſuited to young Beginners; but it is of as great uſe in Compoſing, as Pra<g ref="char:EOLhyphen"/>ctice.</p>
+               <p>In many parts you ſhall ſee the Con<g ref="char:EOLhyphen"/>cords lye in ſuch Order, and every Harmonical Relation in ſo plain a Me<g ref="char:EOLhyphen"/>thod before your Eyes; that you may perceive the Diſtances of Notes at firſt view; and without any laborious com<g ref="char:EOLhyphen"/>puting, be made privy to the whole contrivance of Compoſition. For here every Octave ſtands upon the ſame Line; each Fifth, two Lines higher; and all the other Notes in ſuch like conſtant reſpect; whilſt as they were before in the Syſteme of five Lines, ſometimes they ſtood higher, ſometimes lower, and danced up and down, according to the variation of the Cliff. Upon which account, Ma<g ref="char:EOLhyphen"/>ſter <hi>Sympſon,</hi> perceiving it impoſſible
+<pb n="31" facs="tcp:60608:25"/>for a Compoſer to have ready enough in his Eye, the Concords as they were placed; and yet knowing it neceſſary for a man to carry in his mind, how frequently he uſed his Diſtances, leſt two fifths, or two eighths come toge<g ref="char:EOLhyphen"/>ther, and many more inconveniencies; He doth in his Book of Compoſition, adviſe a man to ſet the Figures be<g ref="char:EOLhyphen"/>tween the parts, whereby he may re<g ref="char:EOLhyphen"/>member what Concords he hath, and ſhall for the future make uſe of; which Mechanical Trouble is here taken away.</p>
+               <p>
+                  <hi>The following Scheme, on the other ſide, ſhews the Intervalls of all Notes in their conſtant ſituation.</hi>
+               </p>
+               <pb n="32" facs="tcp:60608:26" rendition="simple:additions"/>
+               <figure>
+                  <figDesc>fifteen pitches labeled with their intervals from the bottom line of the staff in any octave (treble, mean, or bass), from unison to octave</figDesc>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Greater 6<hi rend="sup">th</hi>
+                           </cell>
+                           <cell>Leſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>er 7<hi rend="sup">th</hi>
+                           </cell>
+                           <cell>Defect 8</cell>
+                           <cell>Greater 7</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>4<hi rend="sup">th</hi>
+                           </cell>
+                           <cell>Imperfect 5<hi rend="sup">th</hi>
+                           </cell>
+                           <cell>Greater 4<hi rend="sup">th</hi>
+                           </cell>
+                           <cell>5</cell>
+                           <cell>Leſser 6<hi rend="sup">th</hi>
+                           </cell>
+                        </row>
+                        <row>
+                           <cell>Uniſon</cell>
+                           <cell>Leſser 2<hi rend="sup">d</hi>
+                           </cell>
+                           <cell>Greater 2<hi rend="sup">d</hi>
+                           </cell>
+                           <cell>Leſs<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r 3<hi rend="sup">d</hi>
+                           </cell>
+                           <cell>Greater 3<hi rend="sup">d</hi>
+                           </cell>
+                        </row>
+                     </table>
+                  </p>
+               </figure>
+               <p>
+                  <hi>Thus all <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Notes &amp; their intervals are Situated in all parts whoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> &amp; practicableneſs you may ſee in y<hi rend="sup">e</hi> next cut of 8 parts.</hi>
+               </p>
+               <p>And as they are placed in one part, ſo in every part; but (as you might obſerve in my Explication of the <hi>Gamut</hi>) according to the old way; the Compoſer muſt be troubled to find out his Concords, becauſe they lye croſs in computing before he writes them down: So that according to the two former Hypotheſis, I will make a wild Compariſon, how madly cuſtom perſwades Muſicians to reckon.</p>
+               <p>Upon <hi>Thurſday</hi> the fourth of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> ſuppoſe I write a Letter to my Friend, and calling that day Gam ut; I tell him, I will will give him a viſit
+<pb n="33" facs="tcp:60608:26"/>on <hi>Ela,</hi> which happens to be <hi>Shrove-Tueſday,</hi> the three and twentieth of that month. He muſt firſt reckon how many Notes there are betwixt <hi>Gamut,</hi> and <hi>E la, viz.</hi> twenty, inclu<g ref="char:EOLhyphen"/>ſive. Then what Muſical proportion there is in that Interval; and after<g ref="char:EOLhyphen"/>wards Compute where to write it down. All this is done betwixt every Conſonant Note; and almoſt as much in the progreſs of every ſtroke in a Leſ<g ref="char:EOLhyphen"/>ſon; whereas, if he had expreſſed him<g ref="char:EOLhyphen"/>ſelf by the Notion of two Octaves and a Sixth; he would immediately have known, that the value of that Con<g ref="char:EOLhyphen"/>cord had been a Sixth; and with as much eaſe underſtood it, as the Gen<g ref="char:EOLhyphen"/>tleman would, if I had aſſigned my time by next <hi>Tueſday</hi> come three weeks.</p>
+               <p>But then if the Cliffs be moveable, he muſt take aim according to their va<g ref="char:EOLhyphen"/>riation; juſt as if to find the <hi>Shrove-Tueſday</hi> appointed; I muſt reckon by the new Moons when <hi>Eaſter</hi> fell; and ſo learn that moveable Feaſt. Though this may ſeem very extravagant, yet it is no more then the thing it ſelf; and in my judgment, I think it much harder to be perfect in the Cliffs, then to Calcu<g ref="char:EOLhyphen"/>late for Almanacks.</p>
+               <pb n="34" facs="tcp:60608:27"/>
+               <p>Whatſoever is moſt natural, is always moſt eaſie: Now, Nature her ſelf hath made this Diviſion by Octaves; and af<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the compleating of them, brings her M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ck into the ſame poſture; which aſ<g ref="char:EOLhyphen"/>ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es me, that however uſe hath hi<g ref="char:EOLhyphen"/>therto obtained to make five Notes the diſtance of a Cliff, yet I have a good Foundation to juſtifie my altering the preſent way of writing, and to eſta<g ref="char:EOLhyphen"/>bliſh it only by Octaves. I will tell you a pretty Experiment of a Pipe, or Flageolet, to this purpoſe; blow with a ſoft, or gentle breath, one of the lower Notes of the Pipe, and let the ſtops remain the ſame, only encreaſing your breath by degrees, and you ſhall find, that no intermediate higher Note will ſound, till at laſt it breaks forth into an Octave.</p>
+               <p>Thus the voice doth naturally in<g ref="char:EOLhyphen"/>cline to alter it ſelf by eight Notes, and conſequently, will beſt conform to the writing by this ſuppoſition, though it underſtood not the change upon a fifth; and therefore a Song was always carried on in the ſame Cliff it begun; yet if it ſhall be found troubleſom to alter the Octave in the middle of a Song, though eight Notes
+<pb n="35" facs="tcp:60608:27"/>be compleated in four lines, yet you may write upon five or ſix; and as you did before continue up the Notes, which will be no trouble, if ſo be you never make, nor change any Cliff; for 'tis eaſier to find the Notes that are fixed upon five or ſix lines, then thoſe that wander, and are uncertain upon three.</p>
+               <p>I now begin with <hi>Vocal Muſick,</hi> whoſe worth juſtly giveth it the Pre<g ref="char:EOLhyphen"/>heminence, and may claim Birth<g ref="char:EOLhyphen"/>right from Nature, whoſe melodious daughter it is. Inſtruments depend upon Art for Contrivance, and ſtill require ſome trouble to relieve their diſorders: but this is always framed, and ready tuned by its firſt Parent, the Harmonious Engineer of the world. And it pleaſeth me well, that the Muſick, which is the moſt Excel<g ref="char:EOLhyphen"/>lent, ſhould receive the greateſt Ad<g ref="char:EOLhyphen"/>vantages from this preſent Propoſal; for hereby we ſhall not only eſcape the difficulty of Cliffs, and conſe<g ref="char:EOLhyphen"/>quently much other trouble, which I have hinted before, and is common with the reſt; but alſo attain a ſteady ſettlement in the ſituation of <hi>Mi.</hi>
+                  <pb n="36" facs="tcp:60608:28"/>which is always neceſſary to be known, before we can name any of the other Notes, and will now be eaſi<g ref="char:EOLhyphen"/>ly diſcerned and remembred; ſince a regular flat can be only placed upon the ſecond line <hi>B,</hi> and the third ſpace <hi>E;</hi> whereas heretofore <hi>Mi</hi> was ſo fickle and uncertain, that there was never a line or ſpace, but in ſome of the old ſigned <hi>Cliffs</hi> or other; <hi>B</hi> flat, would intrude and diſpoſſeſs him of his ſeat.</p>
+               <p>And by how much Muſicians have been wanton in their various <hi>Cliffs</hi> for Singing, (which is moſt of all per<g ref="char:EOLhyphen"/>plexed with the manifold movements of <hi>C ſol fa ut Cliff,</hi> and the conſequent diſorders of <hi>Mi</hi>) they bring in evi<g ref="char:EOLhyphen"/>dence of the miſchief it makes; for where one Scholar learns to Sing or Play on the Harpſechord by Notes, ten do on the Viol and Violin.</p>
+               <figure>
+                  <figDesc>Musical example of a song in four parts (two trebles, mean, and bass) of the author's proposed musical notation system, which replaces all other clefs with octave or multi-octave transpositions of the bass clef</figDesc>
+                  <head>The Song</head>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <l>
+                     <hi>When Aurelia &amp;c.</hi>
+                  </l>
+                  <p>
+                     <hi>When the Notes of a Baſe fall upon higher lines, than their Concords would ſtand upon it's Treble; Compute your chords by the Gamut-Letters, &amp; place them in their own seats; the Composition, will of neceſsity be right &amp; the same in all Parts.</hi>
+                  </p>
+               </figure>
+               <p>But that you may ſee how unne<g ref="char:EOLhyphen"/>ceſſary thoſe former various <hi>Cliffs</hi> are, how conveniently a Song will fall in the Syſteme of five lines (for though an Octave is compleated in four, yet you may take ſuch a liberty) written according to our Hypotheſis of every part beginning with <hi>G,</hi> in the lower-moſt line. I have given you an ex<g ref="char:EOLhyphen"/>ample of a Song in Four Parts, com<g ref="char:EOLhyphen"/>poſed by the Eminent, and Ingenious Mr. <hi>Humphries,</hi> where you may ob<g ref="char:EOLhyphen"/>ſerve the concords keep an exact re<g ref="char:EOLhyphen"/>ſpect to one another; the <hi>B</hi> flats al<g ref="char:EOLhyphen"/>ways in the ſame lines and ſpaces, ſuch a pleaſant agreement and familiar likeneſs through the whole courſe of it, that at firſt view, you may diſcern what kindred and relation there is be<g ref="char:EOLhyphen"/>twixt every conſenting Note, <hi>viz.</hi> all the Octaves ſtanding upon the ſame lines and ſpaces, the fifths two higher, <hi>&amp;c.</hi> proportionably after the ſame manner.</p>
+               <p>
+                  <note place="inline">Here inſert the Plate for the Song <hi>Aurelia.</hi>
+                  </note>
+               </p>
+               <pb n="38" facs="tcp:60608:31"/>
+               <p>In all writing you muſt ſtrictly ob<g ref="char:EOLhyphen"/>ſerve to aſſign that Octave, to which the Notes do moſt properly belong, and in which they will be moſt com<g ref="char:EOLhyphen"/>pactedly comprehended, and then it will be very rare but the Songs will conveniently fall within the compaſs of the lines; and if otherwiſe they ſhould prove at any time unruly from ſome enlarged fancies, yet there be ſeveral ways to remedy their Efforts, and comprehend their wideſt lati<g ref="char:EOLhyphen"/>tude, without any prejudice to our Hypotheſis; nay, with greater advan<g ref="char:EOLhyphen"/>tage by it, than any other way; for be<g ref="char:EOLhyphen"/>ſides, the drawing an aſcititious line over or under upon leſſer occaſions, you may;</p>
+               <p n="1">1. In any place, where the Notes riſe or fall an Octave (which is uſually the cauſe of greateſt diſtreſs in this caſe) ſet the next Note in the ſame place, only changing the letter of the Octave, which will direct you to Sing it an eight higher or lower; as you may ſee theſe three Notes, which re<g ref="char:EOLhyphen"/>quired three different Places, in three different Cliffs, are here ſituated all upon the ſame line, only with the let<g ref="char:EOLhyphen"/>ters of their Octaves prefix'd at firſt
+<pb n="39" facs="tcp:60608:31"/>ſight palpaby, diſcovering what they ſtand for.</p>
+               <figure>
+                  <figDesc>contrasting examples</figDesc>
+                  <figure>
+                     <figDesc>octave alteration using F, C, and G clefs</figDesc>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <p>
+                        <hi>How to alter the Octave in a Song or Leſson.</hi>
+                     </p>
+                  </figure>
+                  <figure>
+                     <figDesc>octave alteration using the author's letter designations B (bass), M (mean), and T (treble)</figDesc>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <p>
+                        <hi>This of excellent uſe in Dialogues.</hi>
+                     </p>
+                  </figure>
+               </figure>
+               <p>By which means the Octave only, not the Cliff is altered, neither is there the leſt ſhadow of the old confuſion; for the <hi>G,</hi> which I inſtanced in, or any other Note in this caſe, will ſtand in every part in the ſame place. And certainly, one that has but very in<g ref="char:EOLhyphen"/>different skill in Singing, can riſe or fall an Octave, when the prefixed letter ſhall give him timely warning of it.</p>
+               <p n="2">2. If the Notes aſcend, or deſcend by degrees, and you have occaſion to go far into another Octave, when you come to an higher <hi>G,</hi> alter the Signal Letter, and it falls upon the lower<g ref="char:EOLunhyphen"/>moſt line; the like diſcretion alſo muſt be uſed in deſcending: by which means, and good fore caſt, no Song can be ſo ſpiteful and unlucky but may be evidently, and conveniently
+<pb n="40" facs="tcp:60608:32"/>written in the compaſs of four lines, which is the ſtatute of our Hypothe<g ref="char:EOLhyphen"/>ſis, the lowermoſt beginning with <hi>G,</hi> the uppermoſt ending with <hi>F;</hi> and the higher and lower Notes than theſe, by the change of the Signal Letter, ought to be lodged in their own Octaves, to which they do belong.</p>
+               <p>But becauſe many Inſtruments con<g ref="char:EOLhyphen"/>tain thick and complex ſtrokes, and it would be too much to alter the Octave upon the account of any ſin<g ref="char:EOLhyphen"/>gle Note. It is left to the pleaſure and contrivance of the Muſick-Ma<g ref="char:EOLhyphen"/>ſter, to uſe either four, five, or ſix lines, as his Inſtrument requires; where the aſcititious lines alſo will enjoy the benefit of our conſtant Univerſality; for the uppermoſt line of five will be always, and upon all In<g ref="char:EOLhyphen"/>ſtruments <hi>A,</hi> the uppermoſt of ſix <hi>C,</hi> and by how many the more the lines are, the more neceſſity there is, that they ſhould be conſtantly, and uni<g ref="char:EOLhyphen"/>verſally the ſame.</p>
+               <p>Now the reaſon why I would ad<g ref="char:EOLhyphen"/>viſe to four lines, rather then more, is, not only becauſe our Eſſay of an Octave is compleated therein, but that the leſſer variety there is, the
+<pb n="41" facs="tcp:60608:32"/>more perſpicuous they are to the eye; which has need of all advantages we can contrive for its help, eſpecially in the full ſpeed of a quick diviſion: But for the leſſons which are compounded with three or four Conſonant Notes in one ſtroke, 'tis moſt convenient to uſe five or ſix lines, and according to the generally received cuſtom, we have formed all our examples in five lines; becauſe we deſire not to con<g ref="char:EOLhyphen"/>tend, unleſs abſolute neceſſity re<g ref="char:EOLhyphen"/>quires, or elſe there be very good advantages to be gained thereby.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="42" facs="tcp:60608:33"/>
+               <head>CHAP. V. <hi>The Deſign applyed to Inſtrumental Mu<g ref="char:EOLhyphen"/>ſick, and firſt to the Violin.</hi>
+               </head>
+               <div type="instrument">
+                  <p>THIS way of Writing may not ſeem ſo very neceſſary for the Violin, as the Voice, becauſe moſt Leſſons crowd themſelves into one <hi>(G ſol re ut)</hi> Cliff, as it is already placed; whereas the various parts of the Voice did indiſpenſably require many.</p>
+                  <p>But let a Muſician conſider, whilſt he ſtrives by that means to hook in both the higher and lower Notes, he gains neither conveniently; and by playing in his old preſcribed Compaſs, condemns this moſt ſpritely Muſick to a drowſie Melancholy. Upon which account, the <hi>French</hi> Muſicians already place <hi>G</hi> in the lower line, (though without any thoughts or re<g ref="char:EOLhyphen"/>ſpect to our Hypotheſis) as we pro<g ref="char:EOLhyphen"/>poſe.</p>
+                  <p>All this, methinks, ſhould perſwade a man to remove his Notes one line lower, and ſpend a week or two in practiſing the ſame poſition of two
+<pb n="43" facs="tcp:60608:33"/>different Octaves, whereby his leſſons will always fall more conveniently in the Syſteme of lines, and himſelf be admitted into the priviledge of this Univerſal Character; but ſee the Gamut both ways.</p>
+                  <figure>
+                     <figDesc>contrasting ways of indicating the two-octaves-and-a-fifth range of the violin (G3 to D6) with lowercase letters on five-line staves</figDesc>
+                     <figure>
+                        <figDesc>the "old" treble clef, requiring two leger lines below and two above the staff,</figDesc>
+                        <head>The Old.</head>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </figure>
+                     <figure>
+                        <figDesc>the "new" system proposed by the author: treble (G4 up) and mean (G3 to G4) octaves notated identically, requiring only one leger line (above the treble) to accommodate the five notes above the treble octave (A4 to D5)</figDesc>
+                        <head>The New.</head>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </figure>
+                     <p>
+                        <hi>Any Violin Leſson of the French pricking will serve for an example.</hi>
+                     </p>
+                  </figure>
+                  <p>But when I conſider the Viol, it more abſolutely preſſeth for relief, and deſires it may no longer ſuffer its pre<g ref="char:EOLhyphen"/>ſent diſtractions; for it was never able to ſhrink it ſelf into one Cliff, or
+<pb n="44" facs="tcp:60608:34"/>be a recreation to the Player, till he had, with more then double pains merited his pleaſure.</p>
+                  <p>Wherefore, ſince 'tis ſo important to be an eaſie delight, and 'tis the Maſters intereſt to make it ſo; I would have him, after he hath asked his Scholar, whether he would learn by Notes or Letters? Ask him in the ſecond place, whether he deſires to learn his Notes in one month or two? if in two months or more, let him learn his two Cliffs with all their variations, if in one (as who deſires to be kept longer in the ſlaviſh principles of a Science than he muſt needs) inſtruct him in this plain and united method: For why ſhould you bring him unneceſſarily into thoſe perplexities, which leſs than the con<g ref="char:EOLhyphen"/>ſtant practice of a year can never per<g ref="char:EOLhyphen"/>fect?</p>
+                  <p>I have already ſhew'd the trouble of different Cliffs, and the clear order which ariſes from their union, which I omit to apply here, leſt I ſhould be tedious, when my Reader's appre<g ref="char:EOLhyphen"/>henſions can't but be fully ſatiated. Only, let me obſerve, how rightfully the Notes ſucceed one another in this alteration by Octaves; how much ju<g ref="char:EOLhyphen"/>ſtice
+<pb n="45" facs="tcp:60608:34"/>there is that <hi>C ſol fa ut,</hi> ſhould come into the place of <hi>C fa ut,</hi> and <hi>C ſol fa</hi> into his; by which they do, as it were, poſſeſs the very inheritance of their Fathers: Whilſt before rea<g ref="char:EOLhyphen"/>ſon had no foundation to argue the place of any Note, but by an unjuſt uſe we were to know <hi>B fa b mi,</hi> in the middle Cliff, where <hi>C fa ut</hi> ſtood in the Baſe; where alſo <hi>Ala mi re</hi> was wont to juſtle it ſelf in upon the Treble.</p>
+               </div>
+               <div type="instrument">
+                  <pb n="46" facs="tcp:60608:35"/>
+                  <head>An example of a Viol Leſſon, moving up and down the lower and middle Octaves.</head>
+                  <p>It was altogether needleſs to inſert this example, but that I would avoid the leaſt ſuſpition; that this Eſſay is obſcure or unpracticable; for this is all that is to be obſerved in the Writ<g ref="char:EOLhyphen"/>ing any Viol Leſſon (as might have been collected out of what I ſaid be<g ref="char:EOLhyphen"/>fore, <hi>viz.</hi>) <hi>The Baſe part remains here and every where elſe, the ſame it was; and the Notes of the middle part are only removed from the lines, into the ſpaces underneath them;</hi> that is, the Notes ſtand in the ſame places as they do in the Baſe, and the Signal <hi>M,</hi> gives no<g ref="char:EOLhyphen"/>tice to play them an Octave higher. You need never alter the <hi>B</hi> flat, which remains ever conſtant to the ſame place.</p>
+                  <p>And methinks, Violiſts ſhould be<g ref="char:EOLhyphen"/>come Patrons of this Propoſal, not on<g ref="char:EOLhyphen"/>ly from the allurements of convenien<g ref="char:EOLhyphen"/>cy, but from a grave and noble pride, that all other Muſick conforms it ſelf to the writing of the Baſe, which the Viol is moſt concern'd in, and that part
+<pb n="47" facs="tcp:60608:35"/>being truly the foundation to the reſt of the Muſick; it was moſt neceſſary to conform to that, in the contrivance of all our Superſtructures.</p>
+                  <p>You have already ſeen the conve<g ref="char:EOLhyphen"/>niency, and becauſe I would rather be troubleſom than obſcure, give me leave a little further to argue, what, and how ſmall the alteration is. For <hi>F fa ut,</hi> or the Baſe Cliff is the ſame it was before; and they who under<g ref="char:EOLhyphen"/>ſtand it, have not only advantage to be perfect in this, but alſo to play by the pricking of all other Muſick, which is to be conformable to this it's ſteady foundation. So that all the conditions we treat for, in this uniting of Muſick are, that <hi>in the middle part the Notes ſhould be removed from the lines into the places underneath them; and in the Treble, from one line to the next imme<g ref="char:EOLhyphen"/>diately under; the ſpaces proportionably after the ſame manner.</hi>
+                  </p>
+                  <p>Certainly, the change is ſo inconſi<g ref="char:EOLhyphen"/>derable, that I ſhould think this un<g ref="char:EOLhyphen"/>worthy my pains, unleſs the difficulty was ſo great, which demands redreſs, and neceſſity required me to anſwer the perverſe obſtinacy of ſome, who would oppoſe even the juſteſt altera<g ref="char:EOLhyphen"/>tions;
+<pb n="48" facs="tcp:60608:36"/>as <hi>Quintilian</hi> obſerv'd in his days, <hi>Vitio malignitatis humanae, ve<g ref="char:EOLhyphen"/>tera ſemper in laude, praeſentia in fasti<g ref="char:EOLhyphen"/>gio eſſe.</hi>
+                  </p>
+                  <p>But if any ſhall contemn this as a ſmall petite invention, becauſe it is ſo eaſie and natural, let them remem<g ref="char:EOLhyphen"/>ber what a grave company of ſuch contemners were baffled in ſetting an egg upright upon the table, before they were ſhew'd how. And I can't think that any Ingenious perſon, can impute the facility of this Propoſal to its diſgrace, ſince I have taken care by ſumming up its advantages to make it appear <hi>as profitable as eaſie.</hi>
+                  </p>
+                  <p>I have one more Eſſay (though independent upon the former Propo<g ref="char:EOLhyphen"/>ſal) to make, before I diſmiſs the Viol, which upon many accounts hath been eſteemed by many impartial and un<g ref="char:EOLhyphen"/>derſtanding perſons. And that which gave the firſt occaſion of this ſurmiſe, was the odd inconvenient ſituation of the Notes upon the old Viol Tuning, which with their Concords lye ſo croſsly, that in all Conſort we are forced to play the ſingle Notes only, or elſe undergo very difficult ſtops.</p>
+                  <pb facs="tcp:60608:36"/>
+                  <pb facs="tcp:60608:37"/>
+                  <figure>
+                     <figDesc>viol music notated according to the author's proposal for notes placed the same way on the staff in bass, mean, and treble octaves</figDesc>
+                     <head>An Example of a Viol Leſson in three Octaves</head>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <byline>M<hi rend="sup">r</hi>: Chri: Simpſon</byline>
+                  </figure>
+                  <pb n="49" facs="tcp:60608:38"/>
+                  <p>I would therefore play by Notes upon ſome pleaſant <hi>Lyra</hi> Tuning, that the moſt frequent Notes be always ſtruck open, that their Concords may be their neareſt neighbours, and at laſt the whole Viol, with an unſtop'd freedom, may eccho forth a full Con<g ref="char:EOLhyphen"/>ſort-ſtroke, uſually the key of the Leſſon.</p>
+                  <p>And what ſhould hinder, but this might be done? for all the Notes which are upon the Viol <hi>De-Gambo,</hi> are alſo upon the Lyra Viol, though in other places; but that thoſe other places on the Lyra Tuning, are moſt convenient, is proved by Muſick-Ma<g ref="char:EOLhyphen"/>ſters themſelves, who generally ſet their ſweeteſt Airs, and pleaſanteſt Suits of Leſſons that way.</p>
+                  <p>Whereas we are now forc'd to learn both by Notes and Letters, which are anſwered with two diffe<g ref="char:EOLhyphen"/>rent Tunings, and a trouble into the bargain of the ſtrings going continu<g ref="char:EOLhyphen"/>ally out of tune; we might do (ac<g ref="char:EOLhyphen"/>cording to this Propoſal) all under one.</p>
+                  <p>But that which is here moſt really worth our conſideration, is; that if we play the moſt noble and ſociable
+<pb n="50" facs="tcp:60608:39"/>way by Notes, the Viol is not able to expreſs its ſelf in its fulleſt Harmony, when otherwiſe it might be a little Conſort, within a Conſort, (like the moſt worthily admired but too ſoft and ſilent Lute) it is now forc'd to grumble a diſmal Baſe, which ſhews neither excellency in the Player, nor any ſweetneſs in the inſtrument, with<g ref="char:EOLhyphen"/>out the treble of ſome other Muſick, which is to give it life and perfecti<g ref="char:EOLhyphen"/>on.</p>
+                  <p>I make choice of this following Tuning; whoſe two loweſt ſtrings are the ſame notes they were be<g ref="char:EOLhyphen"/>fore, the two next their Name-ſakes; where the Octave Notes lye upon the ſame frets, and each other ſtring open, only the ſecond ſtring is <hi>B,</hi> ſharp or flat as the leſſon requires, and the treble <hi>D,</hi> as was the Fourth and Sixth ſtrings.</p>
+                  <pb n="51" facs="tcp:60608:39"/>
+                  <figure>
+                     <figDesc>two ways of depicting the tuning of the six strings of the consort lyra</figDesc>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <figure>
+                        <figDesc>notes on a five-line staff (with one leger line above and one below); octave indication: B[ass]</figDesc>
+                        <head>The Consort Lyra tuning by Notes.</head>
+                     </figure>
+                     <figure>
+                        <figDesc>letters on a six-line staff; no clef or octave indication</figDesc>
+                        <head>By Letters.</head>
+                     </figure>
+                  </figure>
+                  <p>And ſo ſoon as theſe are known to be the places of the Notes upon the Viol, you may play any ground or diviſion by ſight upon this, though it were compoſed for the other tuning; not only, becauſe they chiefly conſiſt of ſingle Notes, which are all here with leſs trouble to be found; but the Conſort ſtrokes alſo, when they oc<g ref="char:EOLhyphen"/>cur, are ſituated in a nearer, and more friendly neighbour-hood. So that by this advantage, we may juſtly expect in thoſe Leſſons, which are compo<g ref="char:EOLhyphen"/>ſed Note-ways for the future, a more
+<pb n="52" facs="tcp:60608:40"/>frequent and amorous conſent of dou<g ref="char:EOLhyphen"/>ble ſtrings; a full Symphony continu<g ref="char:EOLhyphen"/>ed without diſtraction of the hand, heretofore diſtorted by the gripes of many a malicious ſtop.</p>
+                  <p>Hereby alſo may thoſe Lyra Leſ<g ref="char:EOLhyphen"/>ſons (which are already to be had up<g ref="char:EOLhyphen"/>on this tuning) quit their <hi>a, b, c,</hi> rudiments of Letters, and be un<g ref="char:EOLhyphen"/>derſtood and honoured in the cha<g ref="char:EOLhyphen"/>racter of Notes; from whence will ariſe ſuch an entire agreement in the practice of the Viol, as will bring the Learner to a much more early per<g ref="char:EOLhyphen"/>fection.</p>
+                  <p>And indeed, here lies the happineſs of this Propoſal, <hi>That you may at once have the melody of the Lyra, and yet the intelligence of Notes;</hi> which are both equally capable of having the Graces adjoyn'd, and may be indiffe<g ref="char:EOLhyphen"/>rently uſed upon this preſent tuning.</p>
+                  <p>Though if at any time the Scholar be idle, or elſe there be ſome extra<g ref="char:EOLhyphen"/>ordinary Leſſons, conſiſting of many thick and full ſtrokes, troubleſom with the frequent occurrence of flats or ſharps; you may prick them by letters, as ſome Muſick-maſters alrea<g ref="char:EOLhyphen"/>dy do (upon this account) their
+<pb n="53" facs="tcp:60608:40"/>hardeſt leſſons upon the old Viol tuning.</p>
+                  <p>It may be enquired, perhaps, whe<g ref="char:EOLhyphen"/>ther or no I allow but one tuning up<g ref="char:EOLhyphen"/>on an inſtrument?</p>
+                  <p>Yes; once at a Wedding, and up<g ref="char:EOLhyphen"/>on ſome unuſual occaſions; but then, that preſent variety, which is many times ſo cauſleſsly affected, I cannot but diſ-allow. That Scholars, after every ſuite of leſſons, ſhould travel into an unknown Region, to ſee faſhi<g ref="char:EOLhyphen"/>ons in another tuning (when their leſ<g ref="char:EOLhyphen"/>ſons might have been as well ſet upon their old; neither do they become any wiſer than before) doth not proceed either from <hi>an Engliſh conſtancy or wiſdom;</hi> and is uſually deſired by thoſe that are fickle and unskilful, who are well recompenc'd with the trouble of tuning, which I don't grudge them. I know compoſers may poſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bly con<g ref="char:EOLhyphen"/>trive their leſſons upon ſuch keys, and beginning upon an unlucky note, may carry the air ſuch a compaſs up or down that it will not go with a pleaſant con<g ref="char:EOLhyphen"/>venience upon the common tuning; but I ſpeak not of their powerful abi<g ref="char:EOLhyphen"/>lities and phanſies, which I would ſtill have them by all means practiſe and pleaſe themſelves in.</p>
+                  <pb n="52" facs="tcp:60608:41"/>
+                  <p>I ſay therefore, for the common uſe of Muſick, eſpecially among Practitio<g ref="char:EOLhyphen"/>ners, and in all Conſort (as is already generally obſerved) 'tis impertinency and wantonneſs to affect various Tu<g ref="char:EOLhyphen"/>nings; ſince alſo thoſe of the Lute and Viol here propoſed, ſet the inſtruments at a good correſpondent pitch to the Harpſecord, that you may tune toge<g ref="char:EOLhyphen"/>ther Notes of the ſame denomination. But becauſe the bigneſs of inſtruments are ſo various, you muſt not expect any conſtant unmovable law for the tuning them together; yet ſetting the leſſon higher or lower, will be very nigh ſufficient to reconcile them to a perpetual and peaceable conformity.</p>
+                  <p>I would not have a flat or ſharp Tuning make any difference betwixt us; for a good natur'd man would let them both go for one, ſince their alte<g ref="char:EOLhyphen"/>ration and trouble are ſo ſmall, being brought to paſs by the kind comply<g ref="char:EOLhyphen"/>ance of the <hi>B</hi> ſtrings, tuned up or down, as occaſion requires; which you will further ſee in the tuning for the Lute.</p>
+               </div>
+               <div type="instruments">
+                  <pb n="53" facs="tcp:60608:41"/>
+                  <head>The Deſign applyed to the Organ and Harpſechord.</head>
+                  <p>I come next to the Organ, Harpſe<g ref="char:EOLhyphen"/>chord, and Virginals, which, beſides, the fore-mention'd Difficulties, com<g ref="char:EOLhyphen"/>mon to all other inſtruments, have ſo many proper to themſelves, that I have known an hundred learn, and not three by Book; ſo troubleſom was it always eſteemed to attain. Where<g ref="char:EOLhyphen"/>fore in <hi>Holland</hi> they have found out an idle Tableture of Figures, which was invented to relieve the memory of their Women, who after a lying in, or the like, were wont to forget all their Leſſons, and muſt begin a new; and indeed, marriage hath been ever thought very fatal to this without<g ref="char:EOLhyphen"/>book Muſick.</p>
+                  <p>Now, that I may further ſatisfie and perſwade my Reader, I ſhall a little explain the trouble, and ſhew how ea<g ref="char:EOLhyphen"/>ſily it may be remedi'd; whereas we play upon other Inſtruments but by one Cliff at a time; here the perplexi<g ref="char:EOLhyphen"/>ty is doubled, and we always uſe two different together. We ſhould divide o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r ſoul, and employ one part to con<g ref="char:EOLhyphen"/>ſider
+<pb n="56" facs="tcp:60608:42" rendition="simple:additions"/>the right hand, the other the left; and indeed, in ſuch a various and diſtracting poſition of the Notes, which are to be at once conſidered; a man doth as neceſſarily need two heads, as two hands to play with.</p>
+                  <p>And then if you talk of changing the Cliff (as many good Leſſons do frequently require) give me a man of three or four heads; for on the left hand, the lowermoſt line, which was <hi>G,</hi> is immediately transformed into <hi>D;</hi> thus alſo is the right diſquieted with another different alteration; nei<g ref="char:EOLhyphen"/>ther when you have this far paſſed the pikes, will you find any reſt or ſettle<g ref="char:EOLhyphen"/>ment, but all the lines and ſpaces will become any thing, by the arbitrary and tyrannical power of <hi>C ſol fa ut;</hi> which, if you conſider, is required to be done at a ſudden upon ſix lines; I believe it is ſufficient to appale the warmeſt confidence; and could a Ma<g ref="char:EOLhyphen"/>ſter but rightly inſtruct his Scholar to apprehend ſo terrible an intricacy, without doubt, it were enough to cure an Ague, and which is all (as I know) it would be good for.</p>
+                  <p>Now in the way here propoſed, he hath the ſame univerſal law for both
+<pb n="57" facs="tcp:60608:42" rendition="simple:additions"/>hands, <hi>G</hi> is always the lower line, and ſo forward the ſame for ever in the Baſe and Treble: And if at any time the right hath occaſion to deſcend, or the left to move upwards, it is but altering the ſignal Letter of the O<g ref="char:EOLhyphen"/>ctave, and without any trouble, you may play in what place, and with what hand you pleaſe; becauſe every par<g ref="char:EOLhyphen"/>ticular Octave hath ſuch a different proſpect, and ſyſteme within it ſelf. That you will find but very little in<g ref="char:EOLhyphen"/>conveniency, when you ſhift your writing by eight Notes, which lie round about, and come over again ſo much the ſame, that I take the keys of an Harpſechord to be an exact em<g ref="char:EOLhyphen"/>blem of our Hypotheſis, as we before explained it; and conſequently they be moſt ſuitable to that method they ſo much reſemble.</p>
+                  <p>
+                     <note place="inline">
+                        <hi>The Plate for an example of the Harpſecord.</hi>
+                     </note>
+                  </p>
+                  <p>And here I expect to fall into the unmerciful hands of an Objecter, who would undo me all at once, becauſe I alter my Octaves, as often as he do's his Cliffs.</p>
+                  <pb n="56" facs="tcp:60608:43"/>
+                  <p>But to ſatisfie him, and ſave my ſelf, I ſuppoſe, it will be ſufficient, if I prove, that every thing remains the ſame, and ſo our alteration be as good as none at all.</p>
+                  <p n="1">1. In our movement by Octaves, all the lines and ſpaces do ever remain poſſeſſed of the ſame Notes. <hi>Archi<g ref="char:EOLhyphen"/>medes</hi>'s Engine, with which he thought himſelf able to move the world, had he but footing out of it; is much too weak to ſtir <hi>G</hi> from the loweſt line, or diſorder any of the reſt from their fixed ſettlement.</p>
+                  <figure>
+                     <figDesc>8 bars of harpsichord music in D minor notated according to the author's proposed method, with T, M, or B indicating the octaves</figDesc>
+                     <head>An Example of a Leſson on the Harpſechord</head>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <p>
+                        <hi>Almain</hi>
+                     </p>
+                     <byline>W <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </byline>
+                     <p>
+                        <hi>Directions for altering the Octave see Page. 39</hi>
+                     </p>
+                  </figure>
+                  <p>And for the ſatisfaction of any, how much the ſeveral Octaves both ap<g ref="char:EOLhyphen"/>pear, and are the ſame, let them but begin their leſſons eight keys inclu<g ref="char:EOLhyphen"/>ſively, higher or lower then they learn'd them, and they ſhall find themſelves able to play them, as far as the compaſs of the inſtrument will permit; but if any ſhou'd be put out by their fancy let them ſet their hands right, and ſhut their eyes, and I'le warrant them they do it.</p>
+                  <p>It muſt not be expected that this will fall out ſo very pat on other in<g ref="char:EOLhyphen"/>ſtruments, except in the Tuning of the
+<pb n="60" facs="tcp:60608:46" rendition="simple:additions"/>Viol laſt propoſed; neither is it my fault, for I have not undertaken to alter the ſituation of the Notes upon the Inſtruments, but in the Book; that the Reader muſt all along remember that this propoſal is only concerning the Orthography of Muſick, it's per<g ref="char:EOLhyphen"/>formance and harmony remaining un<g ref="char:EOLhyphen"/>touch'd.</p>
+               </div>
+               <div type="instrument">
+                  <p>The Lute hath always had an unde<g ref="char:EOLhyphen"/>niable ſoveraignty over other inſtru<g ref="char:EOLhyphen"/>mental Muſick, ſince that it ſelf is a compleat Conſort, ſounding with ſuch a ſoft, but powerful ſweetneſs, as if it were well acquainted with all the intrigues of the mind; ſometimes diſ<g ref="char:EOLhyphen"/>arming anger, and with its gentle breath, cooling a revengeful rage; ſometimes, by a contrary power it kindles a delightful flame, and raiſes a kinder, but no leſs fiery paſſion; as it is obſerved, that Muſick doth al<g ref="char:EOLhyphen"/>ways promote that humour, which a man is moſt inclined to; though there are alſo ſeveral leſſons, which in their own nature have a greater tincture of mirth or melancholy.</p>
+                  <p>But upon what account ſoever it is, you may obſerve the Lute to be in ſo
+<pb n="61" facs="tcp:60608:46" rendition="simple:additions"/>great eſteem among all Romancers, that they never make mention of any other Muſick, than this with the Voice; for if they can but get a moments leiſure to place their Heroes in an arbour, amidſt the green Ornaments of the Spring; they preſent them with a Lute to Court thoſe Miſtreſſes, all the world knows they have deſerved, but are at laſt forced to uſe this over<g ref="char:EOLhyphen"/>comnig Muſick, as being of proportio<g ref="char:EOLhyphen"/>nate power to charm, with that of their prodigious ſwords to conquer.</p>
+                  <p>And even the grave Philoſophers themſelves have ſo great a reverence for it, that their Muſical experiments are always quoted in the name of a Lute-ſtring.</p>
+                  <p>But the Lute is ſo generally acknow<g ref="char:EOLhyphen"/>ledged ſupream, that it is as needleſs for me to prove it, as it is impertinent to my purpoſe; wherefore, we will now only enquire, what concerns it has in our preſent propoſal; though, indeed, the Tableture, by which we play upon the Lute, is ſo convenient, that except a Scholar knows the Notes already by underſtanding other Muſick, or elſe hath ſome further de<g ref="char:EOLhyphen"/>ſign of Compoſing, he may poſſibly
+<pb n="60" facs="tcp:60608:47"/>content himſelf with that practical writing.</p>
+                  <p>Yet ſince the building is ſo high and noble, who would not take a little more pains to lay a better foundati<g ref="char:EOLhyphen"/>on? we muſt ſpend ſome years in at<g ref="char:EOLhyphen"/>taining it, and many more in the en<g ref="char:EOLhyphen"/>joyment; and ſhall we never come to ſo much perfection, as to underſtand what this Muſick is that pleaſes us ſo well?</p>
+                  <p>And if we conſider it, the difficulty will not be found ſufficient to coun<g ref="char:EOLhyphen"/>termand ſuch great conveniencies, as will flow from hence; for if one can but tell how the <hi>Gamut</hi> is ſituated (as the next cut explains it) he may write out any treble upon the Lute; and a little more knowledge will con<g ref="char:EOLhyphen"/>trive a Baſe. Now if a Scholar ſhould make no further progreſs than this, yet it would be a pritty accompliſh<g ref="char:EOLhyphen"/>ment to be able to ſet a Tune.</p>
+                  <p>And for one that is well verſed in Notes, it is much better to play his Leſſons writ in this kind, for he doth not only get a particular light into the compoſition of his Leſſons, but con<g ref="char:EOLhyphen"/>tinually perfects that way, which is common to all his Muſick.</p>
+                  <pb facs="tcp:60608:48" rendition="simple:additions"/>
+                  <figure>
+                     <figure>
+                        <figDesc>depiction of the author's proposed system of notation system as applied to the lute, with staff notation above and lute tablature (?) below</figDesc>
+                        <head>The Scheme for the Lute, where the Notes are expreſsed by Letters, and the tuning by Octaves.</head>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <l>Ee Ff♯ G A B C D E F♯ <hi>g a b &amp;c. All the thumb-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>trokes fall upon this line.</hi>
+                        </l>
+                        <l>
+                           <hi>Where the Baſe requires a diſtinct time, contrive it by a Reſt over it's head in the Treble.</hi>
+                        </l>
+                     </figure>
+                     <figure>
+                        <figDesc>Arron's Gigue in the author's proposed system of notation</figDesc>
+                        <head>Arrons Gigue by Notes.</head>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </figure>
+                     <figure>
+                        <figDesc>Arron's Gigue in lute tablature (?)</figDesc>
+                        <head>By Letters.</head>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                     </figure>
+                  </figure>
+                  <pb facs="tcp:60608:49"/>
+                  <pb n="61" facs="tcp:60608:49"/>
+                  <p>I confeſs, when it was neceſſary to manage the Lute in two or three diffe<g ref="char:EOLhyphen"/>rent Cliffs (like the old way for the Harpſechord) it was too troubleſom to undertake, and too private a de<g ref="char:EOLhyphen"/>ſign to be concern'd in; but ſince the Lute is reconciled to it ſelf and all other Inſtruments, that by an united acquaintance, and happy league, they aſſiſt to one another's attainment; it is a moſt general intereſt to practiſe it by Notes.</p>
+                  <p>Becauſe few or none at preſent, write their Lute leſſons by Notes, I have taken liberty to propoſe ſuch a Scheme, as I could poſſibly contrive with the moſt convenience and per<g ref="char:EOLhyphen"/>ſpicuity.</p>
+                  <p>It muſt be conſidered, that the Lute (being it ſelf a Conſort) is of very great compaſs, and contains two O<g ref="char:EOLhyphen"/>ctaves, beſides the Baſe; ſo that there muſt be a Mean and Treble, which may be ſucceſſively placed upon a Syſteme of four or five lines, by the alteration of the ſignal letters, and that without any great trouble, either to write or underſtand; becauſe the change is by Octave Notes, which once known upon the Lute, will be
+<pb n="64" facs="tcp:60608:50"/>eaſily found upon the book, where the name-ſake Notes have all the ſame poſition.</p>
+                  <p>There muſt be a time, before you can tell the ſtrings open, by the names of Treble, Second, Third, <hi>&amp;c.</hi> and the Alphabet of ſtopped frets; now a little more time would perfect the <hi>Gamut,</hi> and I am confident 'tis a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>toge<g ref="char:EOLhyphen"/>ther as eaſie a way, when one is firſt of all to begin.</p>
+                  <p>Now for the Baſe, becauſe the time of it is known by the Note, under which it ſtands, and will do well e<g ref="char:EOLhyphen"/>nough, if ſo be we ſtrike it with the ſtring appointed, which is all the di<g ref="char:EOLhyphen"/>rection we have, now-adays, given us. As alſo, that 'tis not ſo frequently ſtrucken, as to deſerve a Syſteme of lines to it ſelf. I have reſolved the Notes of the Baſe, into their own ſig<g ref="char:EOLhyphen"/>nificative letters, which are much more plain to be underſtood, then if they lodged up and down the lines and ſpaces.</p>
+                  <p>And in this I am ſure, the now Ta<g ref="char:EOLhyphen"/>bleture hath not the better of me; for why ſhould not <hi>E e</hi> (that is double <hi>E la mi</hi>) fignifie the twelfth, which Note it is, as well as a figure of five, 5?
+<pb n="65" facs="tcp:60608:50"/>or <hi>G</hi> the tenth, as well as an <hi>A</hi> with three heavy ſtrokes upon his back.</p>
+                  <p>Surely that is moſt natural and eaſie; but why a figure of five ſhould ſtand for the Twelfth, and a figure of four for the Eleventh, I could not a long time underſtand the Etymology, till at laſt I remembred there was ſix lines for the ſix firſt ſtrings, under which the poor Seventh ſtandeth with<g ref="char:EOLhyphen"/>out ever a ſtroke; but how unjuſtly, let them anſwer, that originally rob<g ref="char:EOLhyphen"/>bed him of it; though, for my part, I believe, it was done with a good in<g ref="char:EOLhyphen"/>tent for ſaving a ſtroke: well then, do but ſuppoſe the <hi>A</hi> that is abſent, and five ſtrokes to be added to the Seventh, and there's a lawful Twelfth ſterling; which is a conceit, I confeſs, that though a man had thought on it before he went to bed, yet he might poſſibly have never dream'd on it all night; neither, in<g ref="char:EOLhyphen"/>deed, is it to be remembred by a young beginner at once telling.</p>
+                  <p>Wherefore all the odds, I know, betwixt the letters I have propoſed, and thoſe old figured Baſes, are, that
+<pb n="66" facs="tcp:60608:51"/>any Muſician may underſtand what my written Baſe means; but the other is ſome private conjuring of a Lutiniſt.</p>
+                  <p>When the Notes of the middle part are to be ſtruck with the thumb, I have noted them with the ſmaller letters of the Alphabet; as you have an example in <hi>Arrons Jig,</hi> which are there aſſociated to the Treble, to make a convenient ſatisfaction for the abſence of the farther diſtant Baſe.</p>
+                  <p>
+                     <note place="inline">
+                        <hi>Here inſert the Plate for the</hi> Gamut <hi>up<g ref="char:EOLhyphen"/>on the Lute, and</hi> Arrons Jig.</note>
+                  </p>
+                  <p>I have choſe this tuning, not only as 'tis that which the moſt excellent Lutiniſt, Mr. <hi>John Rogers</hi> ordinarily teaches in <hi>London</hi> to his Scholars; but alſo, becauſe the Notes lye here in their moſt natural poſition, as you may find by computing their diſtances one from another; to which the Tu<g ref="char:EOLhyphen"/>ning of the ſtrings does exactly agree. Only obſerving that, <hi>F fa ut,</hi> is uſu<g ref="char:EOLhyphen"/>ally ſharp in this, as in many other keys, where <hi>Mi</hi> is not diſplaced by a <hi>b</hi> flat.</p>
+                  <pb n="67" facs="tcp:60608:51"/>
+                  <p>I know many make the eighth ſtring <hi>Gamut,</hi> and the fourth, <hi>G ſol re ut,</hi> but a little conſideration will ſatisfie them, it cannot be ſo here; for when we alter the Lute to a flat Tuning, we let down the fourth and the eighth; now the firſt <hi>b</hi> flat doth not uſe to ſtand upon <hi>G,</hi> but <hi>B;</hi> where<g ref="char:EOLhyphen"/>as, therefore, they make the fourth ſtring <hi>G,</hi> and the tuning ſhews <hi>Mi</hi> to be placed there, it muſt needs be falſe; and the fourth, by right, be aſſigned to <hi>B,</hi> which is the very country where <hi>Mi</hi> was bred and born.</p>
+                  <p>This is alſo proved by the tuning of the Baſes; for it is but half a Note from the eighth to the ſeventh, which by their account will happen betwixt <hi>G</hi> and <hi>A,</hi> but by ours, betwixt <hi>B</hi> and <hi>C,</hi> according to their juſt diſtance in a ſharp tuning.</p>
+                  <p>One thing may ſeem to thwart our deſign of playing on the Lute by Notes, which is, that ſeveral ſuits of leſſons require different tunings, and will thence breed a confuſion, becauſe the ſame ſtring will not always be the ſame Note.</p>
+                  <pb n="68" facs="tcp:60608:52"/>
+                  <p>And indeed, this argument may as well be urged againſt playing by Notes upon any Inſtrument that hath divers tunings; wherefore this one propoſed, is to ſerve for Conſort, and all ordinary occaſions; and this I ſay, from a deſire not to contend, for I know there is ſufficient variety upon this one tuning, and as good ſuits of leſſons as ever were play'd upon any.</p>
+                  <p>But you muſt remember that under this one tuning, I comprehend both ſharp and flat, which gain ſuch advan<g ref="char:EOLhyphen"/>tage by altering the tuning of ſome ſtrings, that you can't but be pleaſed with the conſideration.</p>
+                  <p>For, firſt, in the alteration of Baſes, we do not change them from one whole Note to another; but ſome<g ref="char:EOLhyphen"/>times the flat Notes are made ſharp, and ſometimes the ſharp are turned in<g ref="char:EOLhyphen"/>to flat.</p>
+                  <p>Now, whereas otherwiſe we have a ſharp or flat prefixed at the beginning of a line or ſpace, and are forced all along to remember, that whenſoever a Note occurs thereon, it muſt be
+<pb n="69" facs="tcp:60608:52"/>ſtopped according to its prefixt quali<g ref="char:EOLhyphen"/>fication; here we need only ſtrike the Note and by the tuning, 'tis provided to be true.</p>
+                  <p>Thus, inſtead of a continual <hi>B</hi> flat, we tune down the eighth, the fourth, and the Treble, which will require you to obſerve; that as when a <hi>B</hi> flat was placed upon a line, all the Notes upon that line were ſtopped a fret lower; ſo here the ſtring being tuned half a Note lower, all the Notes up<g ref="char:EOLhyphen"/>on that ſtring will fall a fret higher.</p>
+                  <p>Hence <hi>K</hi> fret, which is hardly ever uſed upon the ſharp tuning, is upon the treble in the flat tuning, <hi>G ſol re ut</hi> it ſelf; but this trouble is only upon that one ſtring, and that one ſtop of <hi>C ſol fa ut</hi> upon the Fourth.</p>
+                  <p>And now we may diſmiſs the Lute, having in our Scheme aſſigned places to all its Notes, whoſe compaſs it can<g ref="char:EOLhyphen"/>not exceed; for though the Viol would oftentimes ſally forth to the utmoſt inch of finger-board, yet this never condeſcends to move below the frets, and therefore will be obedient to the lines and ſpaces allotted.</p>
+                  <pb n="70" facs="tcp:60608:53"/>
+                  <p>Having thus explain'd my Hypo<g ref="char:EOLhyphen"/>theſis, ſhew'd its conveniency, and ap<g ref="char:EOLhyphen"/>plyed it in particular to the moſt con<g ref="char:EOLhyphen"/>ſiderable Muſick; I come now to an<g ref="char:EOLhyphen"/>ſwer thoſe Objections, which may ſeem to contradict it.</p>
+               </div>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="71" facs="tcp:60608:53"/>
+               <head>CHAP. VI. <hi>The Objections Anſwered.</hi>
+               </head>
+               <p>
+                  <hi>Obj.</hi> 1. I Firſt of all meet with ſome peeviſh piece of Antiquity, that commends only the Golden days of his youth, and is now weary of the world, and the world of him; but if there be any good in it, 'tis that which he received from his fore-fathers, and not what this degenerating age hath corrupted.</p>
+               <p>He therefore defies our <hi>preſent in<g ref="char:EOLhyphen"/>novation,</hi> and abhors ſuch a <hi>confuſion,</hi> as would bring the Notes of <hi>C ſol fa ut cliff,</hi> from the ſpaces wherein they were placed, and ſet them upon the lines underneath, which was never yet known.</p>
+               <p>
+                  <hi>Anſw.</hi> I. <hi>Innovation is either of that which is bad, or that which is good;</hi> if then this be bad or inconvenient, reject it upon its own account; if good, what hinders but it ſhould be embraced? and prythee tell me, if a Scholar ſhall learn in half the time o<g ref="char:EOLhyphen"/>thers have done, will he much care <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f they call him Innovatour? why ſhould
+<pb n="72" facs="tcp:60608:54"/>not we accept an <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Character</hi> in Muſick, as Arithmaticians have done that noble way of accompting by <hi>Decimal Fractions,</hi> where all things are brought to one Catholick nume<g ref="char:EOLhyphen"/>ration?</p>
+               <p>
+                  <hi>Anſ.</hi> II. Confuſion is when things are different and perplex'd; method, when they all agree and are united. Now I leave it to an impartial Reader, which upon this account ought to be cenſured <hi>this way or that.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> II. The Cliffs always ſtand in a line, for they are five Notes aſun<g ref="char:EOLhyphen"/>der, if therefore in the Baſe you ſet <hi>F fa ut</hi> upon the line, and in the middle part <hi>C ſol fa ut</hi> in the ſpace, you make them but four Notes di<g ref="char:EOLhyphen"/>ſtant, which is falſe Muſick; and be<g ref="char:EOLhyphen"/>ſides, that very Numerical, <hi>G ſol re ut,</hi> which ſtood in the uppermoſt ſpace of one five lines; in the next five lines, will be in the loweſt line.</p>
+               <p>
+                  <hi>Anſw.</hi> I can hardly think any one will be ſo dull, to read thus far, and then make this Objection; but leſt any one ſhould ſtill run droaning in
+<pb n="73" facs="tcp:60608:54"/>his own way, I ſhall mind him of ours, and tell him again, we do not reckon upwards, as if the lines were continued together; neither make we any Cliffs five Notes aſunder, but we compleat an Octave in the Sy<g ref="char:EOLhyphen"/>ſteme of four lines, which reaches to <hi>F fa ut,</hi> and then begin the Syſteme of the next four lines, in the middle part, with <hi>G</hi> again; as after Saturday night comes Sunday morning.</p>
+               <p>But then, if for conveniency of pricking we allow the Syſteme to be of five or ſix lines, why muſt he fall to his old continuation? for herein the Notes of any higher Octave are Exoticks, taken in only ſtranger<g ref="char:EOLhyphen"/>wiſe for their trade and commerce; and therefore muſt not be looked upon as at home; neither is it neceſ<g ref="char:EOLhyphen"/>ſary they ſhould, for he that plays, minds only the part before him, not what the Baſe was, or the Treble might be, but what his preſent task is; and ſhould he look after more, he will find a dearer ſympathy of the agreeing parts in this, than in any o<g ref="char:EOLhyphen"/>ther way of writing.</p>
+               <pb n="74" facs="tcp:60608:55"/>
+               <p>
+                  <hi>Object.</hi> III. Are we not already provided with a way that will do? and are not Muſicians verſed therein? would you have them forego their for<g ref="char:EOLhyphen"/>mer pains, and take as much more on<g ref="char:EOLhyphen"/>ly to the ſame purpoſe?</p>
+               <p>
+                  <hi>Anſw.</hi> For thoſe who have attain'd that laborious, but unneceſſary excel<g ref="char:EOLhyphen"/>lency, let them, if they pleaſe, enjoy it. But if there be a nearer and eaſier way, why ſhould not thoſe Guides be ſo honeſt to lead us in it? Muſt every poor School-boy run the riſquo of his Maſter's antiquated ſtu<g ref="char:EOLhyphen"/>dies? And truly, if Muſick-maſters will continue obſtinate, to maintain ſuch needleſs difficulties, they may, like ſome (Muſicians heretofore) be left to play by themſelves in <hi>Fidlers Iſland.</hi>
+               </p>
+               <p>We have the experience of the for<g ref="char:EOLhyphen"/>mer age, and our own too; that ſtand<g ref="char:EOLhyphen"/>ing upon the ſhoulders of our Ance<g ref="char:EOLhyphen"/>ſtors, we may ſurely ſee further than they, and diſcover what they never ſaw; if then there be a ſhorter cut, why muſt we go about?</p>
+               <pb facs="tcp:60608:55"/>
+               <pb facs="tcp:60608:56"/>
+               <figure>
+                  <figDesc>comparison of traditional and proposed notation for four bars of music in eight parts</figDesc>
+                  <head>An Example of Eight Parts</head>
+                  <figure>
+                     <figDesc>traditional notation with G, C, and F clefs; numerals indicate intervals between each part and the bass</figDesc>
+                     <head>With Cliffs.</head>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>
+                        <hi>Treble 1</hi> 5 5 3 3 5 5 3   6 6 3 8 3   8  </l>
+                     <l>
+                        <hi>Treble 2</hi> 3 3 8 8 3 3 8   3 3 8 5 8   3  </l>
+                     <l>
+                        <hi>Alt 1</hi> 8 8 5 5 8 8 5   8 8 5 3 8   5  </l>
+                     <l>
+                        <hi>Alt 2</hi> 5 8 5 3 5 8 3   3 6 5 8 5   8  </l>
+                     <l>
+                        <hi>Tenor 1</hi> 5 5 8 3 3 5 8   3 3 3 5 8   5  </l>
+                     <l>
+                        <hi>Tenor 2</hi> 3 3 3 8 5 8 5   6 8 3 3 5   3  </l>
+                     <l>
+                        <hi>Baſs 1</hi>     3           6</l>
+                     <l>
+                        <hi>Baſs 2</hi>
+                     </l>
+                  </figure>
+                  <figure>
+                     <figDesc>author's proposed notation, with octave designations (T, M, B) rather than clefs</figDesc>
+                     <head>Without Cliffs</head>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap>
+                     <l>
+                        <hi>Treble 1.</hi>
+                     </l>
+                     <l>
+                        <hi>Treble 2.</hi>
+                     </l>
+                     <l>
+                        <hi>Alt 1</hi>
+                     </l>
+                     <l>
+                        <hi>Alt 2</hi>
+                     </l>
+                     <l>
+                        <hi>Tenor 1</hi>
+                     </l>
+                     <l>
+                        <hi>Tenor 2</hi>
+                     </l>
+                     <l>
+                        <hi>Baſs 1</hi>
+                     </l>
+                     <l>
+                        <hi>Baſs 2</hi>
+                     </l>
+                  </figure>
+                  <p>
+                     <bibl>
+                        <hi>M<hi rend="sup">r</hi>. Simpson's Compend: P: 75.</hi>
+                     </bibl>
+                  </p>
+                  <p>
+                     <hi>Tis needleſs to set the Figures where no cliffs are becauſe the Concords are always situated in the same respective diſ<g ref="char:EOLhyphen"/>tance as if there were but one part. The Octave letters</hi> B M T <hi>only suppoſe a different Octave which alſo the Cliffs (and more obscurely) doe But they doe not suppoſe the various removals of all or any of the Notes as the Cliffs doe which being</hi> 2 𝄞 5 𝄡 2 𝄢 <hi>in all 9) multiplied with the 5 lines &amp; four included spaces doe demon<g ref="char:EOLhyphen"/>strate that the former way did therein require 81 different suppositions.</hi>
+                  </p>
+               </figure>
+               <pb n="75" facs="tcp:60608:57"/>
+               <p>Suppoſe the old project was brought to paſs, that the nook of Land, which joins <hi>Africa</hi> to the continent of <hi>Aſia,</hi> was divided, and ſo a paſſage out of the <hi>Mediterranean,</hi> opened into the Red Sea; would the Apprentices of all for<g ref="char:EOLhyphen"/>mer Merchants be ever obliged, when they took a Voyage to the <hi>Eaſt-Indies,</hi> to meaſure the ſame wide circuit their Maſters did; to double the cape of good Hope, twice croſs the ſcorching line, and ſuffer even the Southern cold, when they might return in leſs than half the time by the Streights of <hi>Gi<g ref="char:EOLhyphen"/>bralter?</hi> And with no leſs folly, muſt Muſicians be ſtill condemned to ſteer their wandring courſe through many Cliffs, becauſe their Predeceſſors went that way before them.</p>
+               <p>
+                  <hi>Object.</hi> IV. But certainly, the de<g ref="char:EOLhyphen"/>ſign muſt be very forc'd and unnatu<g ref="char:EOLhyphen"/>ral, which ſhall oblige all Inſtruments of ſuch different ſhapes and compaſs, and way of utterance, to the ſame manner of writing, and that too clouded in the darkeſt obſcurity, by the abrogation of Cliffs, which are the only directions to inform us where any Note ſtands.</p>
+               <pb n="76" facs="tcp:60608:58"/>
+               <p>
+                  <hi>Anſ.</hi> Though Inſtruments are vari<g ref="char:EOLhyphen"/>ous, yet all Muſick is fundamentally the ſame; there is the ſame beloved inter<g ref="char:EOLhyphen"/>val betwixt all conſonant ſtrokes, the ſame perpetual Oeconomy of an O<g ref="char:EOLhyphen"/>ctave whereſoever it dwells, that all our ſeveral Muſick is but the ſame kind of harmonious ſoul embodied in different ſhapes; for if it were other<g ref="char:EOLhyphen"/>wiſe, the ſame leſſon could not be play'd upon ſeveral Inſtruments. Wherefore, though their ſtops and ſtrikings be various, but the thing the ſame which is to be ſtopped or ſtruck upon them; 'tis evident that one way of writing may be ſufficient.</p>
+               <p>As if there was a common Character for a horſe; from thence a <hi>Frenchman</hi> would call it <hi>Cheval,</hi> a <hi>Dutchman, Pfert, &amp;c.</hi> For the thing being once known which is repreſented to them, they would from the ſame character expreſs it according to the different dialect of their Nations.</p>
+               <p>And thus the tune of all Muſick conſiſting in the ſame Notes, and the
+<pb n="77" facs="tcp:60608:58"/>ſame method of Notes; why may they not have the ſame ſituation, and be reduced to one univerſal chara<g ref="char:EOLhyphen"/>cter? which allowing the latitude of four Octaves, is ſpatious enough for the wideſt compaſs of any Inſtrument; and more might be granted if occaſion does require.</p>
+               <p>And then for aboliſhing Cliffs, it is very reaſonable, that their perplexity and variety being taken away, they themſelves ſhould alſo periſh; which is ſo far from cauſing obſcurity, that 'tis the very thing which makes it clear and eaſie: For is it not much better to have <hi>G</hi> always the loweſt line, than to have an informing Cliff to tell you, it is ſometimes <hi>G,</hi> ſome<g ref="char:EOLhyphen"/>times <hi>F,</hi> ſometimes <hi>E,</hi> and ſo to di<g ref="char:EOLhyphen"/>ſtinguiſh what it is upon every parti<g ref="char:EOLhyphen"/>cular occaſion where it varies.</p>
+               <p>If then an univerſal and conſtant order be not moſt plain and intelligi<g ref="char:EOLhyphen"/>ble! If this be a wonder! I'le give any man leave to cry out — <hi>Help me,</hi> Ralpho, <hi>with thy Prophetick Spirit; Deliver me</hi> Bacchus <hi>from thy dozy
+<pb n="78" facs="tcp:60608:59"/>fumes: Pity me ye confounded Sons of</hi> Nimrod, <hi>that I muſt ſtill ſuffer the curſe of my old confuſed diſorders.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> V. But will not Muſick hereby become common and contem<g ref="char:EOLhyphen"/>ptible, proſtituted— <hi>to the weak and rabble?</hi> and be no longer the delight of Princes, but the mean paſtime of the vulgar.</p>
+               <p>
+                  <hi>Anſw.</hi> Which if this Eſſay be guilty of, 'tis a contradiction to cry out of it's obſcurity; but I anſwer.</p>
+               <p>Since that Muſick is no jugling, cheat, or empty toy, but an innocent and ſubſtantial pleaſure, a natural branch of one of the moſt noble Sci<g ref="char:EOLhyphen"/>ences; it fears not to diſcover it ſelf to any, and being of the liberal Arts, humbly admits acceſs to the meaneſt admirer. For they the more gene<g ref="char:EOLhyphen"/>rally known they are, the more excel<g ref="char:EOLhyphen"/>lent they appear; and upon this ac<g ref="char:EOLhyphen"/>count, the moſt Ingenious and Learn<g ref="char:EOLhyphen"/>ed Men I meet with, are always moſt liberal and communicative of their knowledge: And this they do with<g ref="char:EOLhyphen"/>out
+<pb n="79" facs="tcp:60608:59"/>any prejudice, nay, with the great<g ref="char:EOLhyphen"/>eſt advantage to themſelves; for there is ſo great a depth in all Learning, that they do thereby only diſpoſe people better to underſtand and ad<g ref="char:EOLhyphen"/>mire their excellencies.</p>
+               <p>And particularly in Muſick, there are ſuch various, ſuch large accom<g ref="char:EOLhyphen"/>pliſhments, that will ſuit every ones quality and capacity. A brisk and lively Air will penetrate the thickeſt skull, and actuate the dulleſt ruſtick with joy and dancing: But then there are Quires of Conſort for nobler enter<g ref="char:EOLhyphen"/>tainments, above both the skill and charges of the common people.</p>
+               <p>And were Muſick in more frequent uſe, we ſhould not ſee it more deſpiſed, but more generally eſteemed; <hi>'Tis cu<g ref="char:EOLhyphen"/>ſtom makes it underſtood, and brings it into reputation.</hi> Thus when every Swain had his rural ditty, and the Shepherds ſate Singing their Eclogs on the Plains of <hi>Peleponneſus,</hi> than did the <hi>Athenian Princes</hi> love and honour theſe Muſical delights: And <hi>Epami<g ref="char:EOLhyphen"/>nondas</hi> himſelf, that renowned Cap<g ref="char:EOLhyphen"/>tain
+<pb n="80" facs="tcp:60608:60"/>of <hi>Thebes,</hi> learned both to play and ſing of his Maſter <hi>Denny;</hi> (as <hi>Cor<g ref="char:EOLhyphen"/>nelius Nepos</hi> thought it worthy to re<g ref="char:EOLhyphen"/>port among the great actions of his life.)</p>
+               <p>Was ever Mathematicks contem<g ref="char:EOLhyphen"/>ned, becauſe a Carpenter underſtood his Rule? or fair Writing under-va<g ref="char:EOLhyphen"/>lued, becauſe many ordinary perſons more excel in it, than Noblemen and great Scholars? neither will Muſick be caſt away, becauſe performed by the hands of the vulgar.</p>
+               <p>I ſhould not have been ſo long in confuting an Objection, which is ſo plain a miſtake, but that upon this ac<g ref="char:EOLhyphen"/>count ſome have ſo ſtomached this Eſſay: And ſince they do ſo urge me, I don't care, if I do fall under the dint of their Argument, <hi>viz. That Muſick is hereby expoſed to the world habita<g ref="char:EOLhyphen"/>ble — that it may poſſibly be more generally practiſed, and a perfection ſooner attained by the learner.</hi>
+               </p>
+               <p>
+                  <hi>Object.</hi> VI. But what ſhall become of the leſſons already written? or when we come amongſt them of the
+<pb n="81" facs="tcp:60608:60"/>old way, how ſhall we Conſort with them?</p>
+               <p>
+                  <hi>Anſ.</hi> Many Scholars would be glad to arrive at this objection; if they could play all that was ſet them, they would think themſelves well enough. But this is not all, for they may be able to play any Baſe by ſight, which is the ſame it was before; and for o<g ref="char:EOLhyphen"/>ther quicker leſſons, (which are ſel<g ref="char:EOLhyphen"/>dom performed without practice) any ſervant may tranſcribe them, who though he cannot practice for his Ma<g ref="char:EOLhyphen"/>ſter, and transfer his skill, he can his writing.</p>
+               <p>And though this ſhould be a trou<g ref="char:EOLhyphen"/>ble for the preſent, yet time will quickly aboliſh it; the daily compo<g ref="char:EOLhyphen"/>ſing and learning new leſſons, wipe away the old ones; ſo that ſuch alte<g ref="char:EOLhyphen"/>rations in Muſick as this, already have, and may as well now find this incon<g ref="char:EOLhyphen"/>veniency inſenſible.</p>
+               <p>And for tranſcribing leſſons out of the old, into this new method, there remains no difficulty, 'tis but (as I ſaid
+<pb n="82" facs="tcp:60608:61"/>before) removing the Notes of the middle part out of the ſpaces, into the lines underneath them, and in the treble to ſet <hi>G</hi> in the loweſt line. But Scholars need not trouble them<g ref="char:EOLhyphen"/>ſelves for this, no Maſter will be ſo diſ-ingenious, but upon their entrea<g ref="char:EOLhyphen"/>ties, to direct them this way. And I have heard the moſt eminent, Maſter <hi>Theodorus Steſkins,</hi> and Mr. <hi>Matthew Lock,</hi> (whoſe excellent compoſitions I can't but tell the world, how I ad<g ref="char:EOLhyphen"/>mire) affirm, we might uſe this way if we pleaſed; the former of which, once tranſcribed for me the Song, which I have given you for an exam<g ref="char:EOLhyphen"/>ple, according to this preſent propo<g ref="char:EOLhyphen"/>ſal.</p>
+               <p>I have now paſſed the Objections, and made a ſhift to eſcape alive; but becauſe I have been ſo long engaged in them, I am willing to give the Reader ſome account thereof.</p>
+               <p>It muſt be expected when any thing is propoſed entirely new (as this is the firſt attempt was ever made of this kind in Muſick) it ſhould appear a little ſtrange and ſurpriſing; and therefore
+<pb n="83" facs="tcp:60608:61"/>our former and more acquainted noti<g ref="char:EOLhyphen"/>ons of things, which have already poſ<g ref="char:EOLhyphen"/>ſeſſion of our minds, ſuggeſt all man<g ref="char:EOLhyphen"/>ner of Objections to keep out any new intruding propoſal: And I have upon this account been frequent in diſcourſe with perſons converſant in Muſick, that underſtanding their ſug<g ref="char:EOLhyphen"/>geſtions, I might in ſome ſort allay the heats of their ſurprizal. Neither do I think this argumentative method is more litigious than profitable; for I have always found my ſelf better able to underſtand any <hi>Phoenomenon</hi> by reading ſuch Authors that contraverted it, rather than thoſe that only laid down the direct definition.</p>
+               <p>I would not therefore have my Reader terrified at theſe objected dif<g ref="char:EOLhyphen"/>ficulties, not for their number, becauſe they are for the moſt part but ſome ſhie ſurmiſes, which better acquain<g ref="char:EOLhyphen"/>tance, and more familiarity, will eaſily wear away; nor for their largeneſs, which I purpoſely deſigned, that by the more exact ſearch and enquiry therein, every particular might be more throughly apprehended.</p>
+               <pb n="84" facs="tcp:60608:62"/>
+               <p>So that this deſign being acquitted of its late impeachments, comes more boldly with its two old arguments to claim acceptance, <hi>viz.</hi>
+               </p>
+               <p n="1">1. <hi>By aſſuring its favourers a remiſſion of more than half their task in the tedious principles.</hi>
+               </p>
+               <p n="2">2. <hi>And an univerſal knowledge and practice, from the common pricking of all ſorts of Muſick.</hi>
+               </p>
+               <p>So that I have nothing more, but to ſum up my accounts, and conclude with a compendious narration of the whole.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="85" facs="tcp:60608:62"/>
+               <head>The Concluſion.</head>
+               <p>I Come now to review a Learners proceedings, which as they lye in the dark, are thought difficult and tireſome; whereas, if he had a ſhort Landskip of his pleaſant journey, and always in his eye a proſpect of his de<g ref="char:EOLhyphen"/>ſired end, the way it ſelf would be ſatisfaction, and his practice only a continued pleaſure.</p>
+               <p>His firſt buſineſs is a perfect know<g ref="char:EOLhyphen"/>ledge of the ſeven Letters, and I think none undertake Muſick, but are thus far skill'd in their Alphabet.</p>
+               <p>Then he muſt know the ſeven parti<g ref="char:EOLhyphen"/>cular places, to which theſe Letters do belong, as <hi>G</hi> for the loweſt line, <hi>A</hi> for the firſt ſpace, <hi>B</hi> for the next line, and ſo forwards; whoſe reſpective ſeats upon the Inſtrument being known and applyed to the book, render him capable to expreſs the <hi>Tune</hi> of any leſ<g ref="char:EOLhyphen"/>ſon; and for the <hi>Time,</hi> after you have underſtood the comprehenſive value of each Note; 'tis but a knack to ſtamp
+<pb n="86" facs="tcp:60608:63"/>at every Emphatical Note, and (as a jeſting obſerver of the motion of the foot told me) a man will be thorow<g ref="char:EOLhyphen"/>pac'd in the Muſical amble.</p>
+               <p>And this is all that is requiſite to play in Conſort, which without doubt may be brought to paſs in a little time, by frequent practice, and the conduct of a <hi>Skilful Maſter.</hi>
+               </p>
+               <p>To whoſe judgment I readily ſub<g ref="char:EOLhyphen"/>mit any thing this Eſſay hath propoſed, not only, becauſe a ſtander by may perceive more, than he who manages the Game; but alſo one whoſe em<g ref="char:EOLhyphen"/>ployment it is, may be better able to emprove it, than one who takes it up only for a divertion.</p>
+               <p>Wherefore if a Lute-maſter ſhall think it more convenient to uſe two Syſtemes of lines, inſtead of thoſe Let<g ref="char:EOLhyphen"/>ters for the Baſe Octave; or any Muſician (for the reaſons alledged) conceive it more diſtinct to uſe but four lines in a Syſteme, or the like; I ſhall moſt readily comply with any thing their judgment and experience ſhall find beſt.</p>
+               <pb n="87" facs="tcp:60608:63"/>
+               <p>Let them, to whom it belongs, have the honour of it's perfection; it ſuffi<g ref="char:EOLhyphen"/>ceth me to be inſtrumental to its ad<g ref="char:EOLhyphen"/>vancement; which cannot but be pro<g ref="char:EOLhyphen"/>moted, <hi>by abrogating the perplexed va<g ref="char:EOLhyphen"/>riety of Cliffs, and eſtabliſhing all Mu<g ref="char:EOLhyphen"/>ſick in one conſtant and univerſal order, by the foundation law of Octaves.</hi>
+               </p>
+               <p>As I think it of abſolute neceſſity for a beginner to have one to inſtruct him, ſo in my judgment, it will be certainly moſt advantageous for him to make choice of ſuch an one, as be<g ref="char:EOLhyphen"/>gins at the bottom, and leads him the moſt underſtanding way; to inſtruct him (for inſtance) that an Octave is a compleat Cycle of Muſick, that all the intermediate Notes, in their natural poſition, are two half Notes diſtant, except <hi>C</hi> and <hi>F,</hi> which when he knew where, he would alſo know why they were ſo placed; and thence underſtand the nature of Flats and Sharps; he would apprehend the diſpoſition of his Inſtrument, and collect the reaſon of its tuning. He that takes ſuch a courſe as this, <hi>viz.</hi> to be inſtructed in the Fundamentals of Muſick, may
+<pb n="88" facs="tcp:60608:64"/>(perhaps) be thought to go the moſt difficult and furtheſt way about; but they will at laſt find it, much the near<g ref="char:EOLhyphen"/>eſt way home.</p>
+               <p>But why muſt we now Sacrifice to <hi>Hercules,</hi> and hang up our imperfect Trophees upon his Pillars? we are ar<g ref="char:EOLhyphen"/>rived ('tis true) at the uſual bounda<g ref="char:EOLhyphen"/>ries of a learner's knowledge; but the glory and ſatisfaction, the triumphing perfection is ſtill behind.</p>
+               <p>'Tis an incomparable pleaſure to play an Airy Tune, or well contriv'd Conſort; but to be Author of it, is a kind of unknown delight. I have heard many Scholars, in vain, impor<g ref="char:EOLhyphen"/>tune their Maſters for ſome directions to this purpoſe, that they would crown their pains and joys, with this laſt conſummating kindneſs.</p>
+               <p>Whoſe <hi>Charity,</hi> notwithſtanding has been ſo ſtraight, or elſe their <hi>ignorance</hi> ſo obſtinate, that thoſe juſt entreaties were fruſtrated.</p>
+               <p>I w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld therefore a little plead this
+<pb n="89" facs="tcp:60608:64"/>cauſe with the skilful Muſician, and ſee whether it would not be a ſmall trouble, yet a great advantage for him to comply: For with what eaſe might he explain <hi>Simpſon</hi>'s Compendium, and by reducing it all along to practice, and delightful examples, drive on pleaſant<g ref="char:EOLhyphen"/>ly through the very intricacies of compoſition.</p>
+               <p>Did but a Scholar underſtand the mode of leſſons, the ſmooth nature of a Treble, the proper movements of a leaping Baſe; how Conſort is generally by Fifths, Thirds, and Eights, with ſome few directions for their uſe; he needs no more but to fancy what he would write down, and write down what he fancies.</p>
+               <p>Theſe things of themſelves lye ſome<g ref="char:EOLhyphen"/>thing deep and obſcure; but if they were undertaken by a good Muſical Ingenuity, and aſſiſted by the directi<g ref="char:EOLhyphen"/>ons of a learned Maſter, may be quick<g ref="char:EOLhyphen"/>ly brought to paſs, both with eaſe and pleaſure.</p>
+               <p>And I cannot think what reaſon any
+<pb n="90" facs="tcp:60608:65"/>Ingenuous Muſician can have to be ſhie herein, for his labour would then be a continual exerciſe of his chiefeſt excellency, and his employment only to manifeſt his learning; whereas, now he is ranck'd in the ſame order with thoſe Empyrical Traders, who have a parcel of Muſical Receipts, but un<g ref="char:EOLhyphen"/>derſtand not one Note of their com<g ref="char:EOLhyphen"/>poſure.</p>
+               <p>The world would hereby more know and value his worth, and ſo he would be ſeparated from the diſ<g ref="char:EOLhyphen"/>eſteemed crowd of the lower rank, and live, and be eſteemed like a Maſter of an ingenious profeſſion.</p>
+               <p>'Tis ſtrange that ſo many arguments muſt be urged to perſwade men to em<g ref="char:EOLhyphen"/>brace their own intereſt; but after all, methinks, a deſire to ſee Muſick advanced, ſhould be ſomething pre<g ref="char:EOLhyphen"/>valent with them. For it might then come to paſs, that inſtead of drinking, or ſome ſuch entertainments and liga<g ref="char:EOLhyphen"/>ments of company, a Muſical Conſort might be introduced, which would be much more happy and innocent: How would it reſemble vertue and charity,
+<pb n="91" facs="tcp:60608:65" rendition="simple:additions"/>if the ſubject of a merry meeting was <hi>Harmony</hi> it ſelf? and neighbouring Gentlemen made their mutual Treat<g ref="char:EOLhyphen"/>ments of that Muſick, which their own Fancies compoſed, and their own hands performed? This would not impair the Muſick-maſters livelyhood, but bring him more into requeſt, make his employment more conſtant, and that too in the heights and excellencies of Muſick; for it can't be ſuppoſed, that Gentlemen ſhould ever arrive ſo far, without ſome to inſtruct them.</p>
+               <p>And thus far we may extend the bounds of Practical Muſick, which are laid upon ſuch a noble foundation in the Mathematicks; that as there is ſcarcely any thing there more intri<g ref="char:EOLhyphen"/>cate, ſo there is nothing more ingeni<g ref="char:EOLhyphen"/>ous than this.</p>
+               <p>Many an induſtrious Scholar ſtudies the Trigonometry of Signs and Tan<g ref="char:EOLhyphen"/>gents; only that he may erect a Sun-Dial, or take the right aſcention of a Star, which perhaps he hath never oc<g ref="char:EOLhyphen"/>caſion afterwards to practiſe; who, if Muſically inclined, may as well favour
+<pb n="92" facs="tcp:60608:66"/>his Genius therein; ſince the ſame kind of ſtudies might ſatisfie him in the Har<g ref="char:EOLhyphen"/>monical Diviſion of an Octave, and diſcover to him how the agreeing con<g ref="char:EOLhyphen"/>cords oblige themſelves to obſerve their Arithmetical laws. What prety Philoſophy there is in the vibration of ſtrings, and how each various ſtroke is at laſt reconciled by an uniting coin<g ref="char:EOLhyphen"/>cidence.</p>
+               <p>But this is ſo far from our Practical Propoſal, that it may ſuffice to have given theſe hints, and ſo withdraw, leſt while I plead for Muſick, as a noble and lawful divertiſement, it ſhould be found guilty of encroaching upon thoſe more ſerious ſtudies, to which it is to be only a recreation.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_music_books_and_musical_instruments">
+            <pb facs="tcp:60608:66"/>
+            <p>ALL ſorts of Muſick Books and Inſtruments, Lutes, Viols, Violins, Gittars, Flageo<g ref="char:EOLhyphen"/>lets, Caſtenets, <hi>&amp;c.</hi> with great choice of ſtrings.</p>
+            <p>As alſo the beſt Conſort, Suits of Leſſons, and the Neweſt Airs ready prickt according to this Univerſal Character.</p>
+            <p>
+               <hi>Are to be ſold by</hi> John Carr, <hi>at the</hi> Middle-Temple-Gate.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
